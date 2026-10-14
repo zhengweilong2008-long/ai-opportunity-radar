@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+{% block title %}运行状态 - AI 机会雷达{% endblock %}
+{% block content %}
+<h1>🛠️ 运行状态</h1>
+<p class="muted">每次更新记录新增条目、去重数量、失败来源和错误原因；时间为北京时间。</p>
+
+<div class="cards">
+  <div class="card stat">
+    <div class="stat-label">通知渠道</div>
+    <div class="stat-value" style="font-size:18px">{{ "已启用" if notify.enabled else "未启用" }}</div>
+    <div class="muted small">渠道：{{ notify.channel }} ·
+      邮件{{ "已配置" if notify.email_configured else "未配置" }} ·
+      Telegram{{ "已配置" if notify.telegram_configured else "未配置" }}</div>
+  </div>
+  <div class="card stat">
+    <div class="stat-label">大模型用量（本月预估）</div>
+    <div class="stat-value" style="font-size:18px">¥{{ "%.2f"|format(llm.month_cost_est) }} / ¥{{ "%.0f"|format(llm.month_budget) }}</div>
+    <div class="muted small">{{ "已启用" if llm.enabled else "未启用（默认关闭，零费用）" }} · 今日调用 {{ llm.today_calls }} 次</div>
+  </div>
+  <div class="card stat">
+    <div class="stat-label">日志文件</div>
+    <div class="stat-value" style="font-size:18px">{{ log_files|length }} 个</div>
+    <div class="muted small">{% for f in log_files[:3] %}{{ f.name }} ({{ f.size }})<br>{% endfor %}</div>
+  </div>
+</div>
+
+<h2>信源状态</h2>
+<div class="card">
+  <table class="table">
+    <thead><tr><th>信源</th><th>状态</th><th>最近运行</th><th>最近成功</th><th>累计条目</th><th>错误信息</th></tr></thead>
+    <tbody>
+    {% for s in sources %}
+      <tr>
+        <td>{{ s.display_name }}</td>
+        <td><span class="badge badge-{{ s.status }}">{{ s.status_label }}</span></td>
+        <td>{{ to_bj(s.last_run_at) if s.last_run_at else "—" }}</td>
+        <td>{{ to_bj(s.last_success_at) if s.last_success_at else "—" }}</td>
+        <td>{{ s.items_collected }}</td>
+        <td class="muted small">{{ s.last_error or "—" }}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+<h2>更新记录</h2>
+{% if runs %}
+  {% for r in runs %}
+  <div class="card">
+    <div class="card-head">
+      <strong>#{{ r.id }} · {{ to_bj(r.started_at) }}</strong>
+      <span class="badge badge-{{ r.status }}">{{ r.status }}</span>
+    </div>
+    <p class="muted small">
+      新增 {{ r.new_items }} 条 · 去重 {{ r.deduped_count }} 条
+      {% if r.failed_sources %}· 失败来源：{{ r.failed_sources | join(", ") }}{% endif %}
+      {% if r.note %}· {{ r.note }}{% endif %}
+    </p>
+    {% if r.errors %}<pre class="err">{{ r.errors }}</pre>{% endif %}
+  </div>
+  {% endfor %}
+{% else %}
+  <div class="card empty"><p class="muted">暂无运行记录。首次采集完成后这里会显示每次更新的明细。</p></div>
+{% endif %}
+{% endblock %}

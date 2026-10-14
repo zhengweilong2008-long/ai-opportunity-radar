@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}AI 机会雷达{% endblock %}</title>
+<link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+<div class="layout">
+  <aside class="sidebar">
+    <div class="brand">📡 AI 机会雷达</div>
+    <nav class="nav">
+      <a href="index.html" class="{% if active=='home' %}active{% endif %}">🏠 主页</a>
+      <a href="hot.html" class="{% if active=='hot' %}active{% endif %}">🔥 24H 热点</a>
+      <a href="opportunities.html" class="{% if active=='opportunities' %}active{% endif %}">💡 本周机会</a>
+    </nav>
+    <div class="side-foot">每天 08:00（北京时间）自动更新<br>更新于 {{ generated_at }}</div>
+  </aside>
+  <main class="content">
+    {% block content %}{% endblock %}
+    <footer class="footer">AI 机会雷达 · 数据来源于公开信源，仅供学习参考，不构成投资建议</footer>
+  </main>
+</div>
+</body>
+</html>

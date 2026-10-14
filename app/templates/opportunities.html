@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+{% block title %}本周机会 - AI 机会雷达{% endblock %}
+{% block content %}
+<h1>💡 本周机会</h1>
+<p class="muted">{% if is_default %}每周精选 5 条，按机会评分排序。{% else %}筛选结果按机会评分排序。{% endif %}面向普通人可执行的低成本方向。</p>
+{% if not llm_enabled %}
+<p class="notice">🌐 当前显示英文原文标题。配置大模型 API 后可自动生成中文标题与摘要（默认关闭，零费用）。</p>
+{% endif %}
+
+<form class="filters" method="get" action="/opportunities">
+  <label>机会类型
+    <select name="opp_type" onchange="this.form.submit()">
+      <option value="">全部类型</option>
+      <option value="AI" {% if opp_type=='AI' %}selected{% endif %}>AI</option>
+      <option value="创业" {% if opp_type=='创业' %}selected{% endif %}>创业</option>
+      <option value="投资" {% if opp_type=='投资' %}selected{% endif %}>投资</option>
+    </select>
+  </label>
+</form>
+
+{% if items %}
+  {% for it in items %}
+  <article class="card item">
+    <div class="item-top">
+      <span class="score">{{ "%.0f"|format(it.opp_score or 0) }}<small>/100</small></span>
+      <div>
+        <h3>{{ it.title_cn or it.title_orig }}</h3>
+        <div class="meta">{{ it.opp_type or "未分类" }} · {{ it.source }} · {{ to_bj(it.published_at) }}</div>
+      </div>
+    </div>
+    <p><strong>一句话机会点：</strong>{{ it.summary_cn or "分析生成中…" }}</p>
+    <dl class="kv">
+      {% if it.monetization %}<dt>变现路径</dt><dd>{{ it.monetization }}</dd>{% endif %}
+      {% if it.cost_range %}<dt>预估启动成本</dt><dd>{{ it.cost_range }}</dd>{% endif %}
+      {% if it.mvp_plan %}<dt>最小可行验证</dt><dd>{{ it.mvp_plan }}</dd>{% endif %}
+      {% if it.risks %}<dt>主要风险</dt><dd>{{ it.risks }}</dd>{% endif %}
+      {% if it.next_action %}<dt>下一步行动</dt><dd>{{ it.next_action }}</dd>{% endif %}
+    </dl>
+    <div class="reasons">
+      <span class="muted small">评分理由：</span>
+      {% for k, v in it.opp_reasons.items() %}{% if not k.startswith('_') %}<span class="tag">{{ k }} +{{ v }}分</span>{% endif %}{% endfor %}
+      {% if not it.opp_reasons %}<span class="muted small">暂无明细</span>{% endif %}
+    </div>
+    {% if it.opp_reasons.get('_说明') %}<p class="muted small">备注：{{ it.opp_reasons['_说明'] }}</p>{% endif %}
+    <a class="link" href="{{ it.url }}" target="_blank" rel="noopener">阅读原文 →</a>
+  </article>
+  {% endfor %}
+  <p class="muted small">⚠️ 机会分析基于公开信息整理，不构成投资建议；未验证的盈利空间不会被描述为已验证收入。</p>
+{% else %}
+  <div class="card empty">
+    <p>📭 暂无机会数据。</p>
+    <p class="muted small">采集与评分模块将在阶段二、三上线后，每周从近 7 天内容中提炼 5 条机会。这里不会展示任何模拟或编造的内容。</p>
+  </div>
+{% endif %}
+{% endblock %}

@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+{% block title %}主页 - AI 机会雷达{% endblock %}
+{% block content %}
+<h1>主页</h1>
+<p class="muted">今天是北京时间 {{ date }}。数据每天 08:00（北京时间）自动采集更新。</p>
+
+<div class="cards">
+  <div class="card stat">
+    <div class="stat-label">最近一次成功更新</div>
+    <div class="stat-value">{{ stats.last_ok or "暂无" }}</div>
+  </div>
+  <div class="card stat">
+    <div class="stat-label">近 7 天采集成功率</div>
+    <div class="stat-value">{{ "%.0f%%"|format(stats.success_rate*100) if stats.success_rate is not none else "暂无数据" }}</div>
+    {% if stats.runs_total %}<div class="muted small">共 {{ stats.runs_total }} 次运行</div>{% endif %}
+  </div>
+  <div class="card stat">
+    <div class="stat-label">24H 热点</div>
+    <div class="stat-value">{{ stats.hot_count }} 条</div>
+    <a class="link" href="hot.html">查看 24H 热点 →</a>
+  </div>
+  <div class="card stat">
+    <div class="stat-label">本周机会</div>
+    <div class="stat-value">{{ stats.opp_count }} 条</div>
+    <a class="link" href="opportunities.html">查看本周机会 →</a>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-head"><h2>📡 各信源运行状态</h2></div>
+  <table class="table">
+    <thead><tr><th>信源</th><th>状态</th><th>最近成功</th><th>累计条目</th></tr></thead>
+    <tbody>
+    {% for s in sources %}
+      <tr>
+        <td><a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.display_name }}</a></td>
+        <td><span class="badge badge-{{ s.status }}">{{ s.status }}</span></td>
+        <td>{{ s.last_success_at or "—" }}</td>
+        <td>{{ s.items_collected }}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+<div class="card">
+  <div class="card-head"><h2>🕘 最近更新记录</h2></div>
+  <table class="table">
+    <thead><tr><th>时间（北京时间）</th><th>结果</th><th>新增</th><th>失败信源</th></tr></thead>
+    <tbody>
+    {% for r in runs %}
+      <tr>
+        <td>{{ r.started_at }}</td>
+        <td>{{ r.status }}</td>
+        <td>{{ r.new_items }}</td>
+        <td>{{ r.failed_sources|join(", ") if r.failed_sources else "—" }}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  <p class="muted small">每次更新的新增条目、去重数量、失败信源与错误原因均如实记录，不隐瞒失败。</p>
+</div>
+{% endblock %}

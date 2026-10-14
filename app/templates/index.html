@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+{% block title %}主页 - AI 机会雷达{% endblock %}
+{% block content %}
+<h1>主页</h1>
+<p class="muted">今天是北京时间 {{ today }}。数据每天 08:00（北京时间）自动采集更新。</p>
+
+<div class="cards">
+  <div class="card stat">
+    <div class="stat-label">最近一次成功更新</div>
+    <div class="stat-value">{{ to_bj(last_ok) if last_ok else "暂无" }}</div>
+  </div>
+  <div class="card stat">
+    <div class="stat-label">近 7 天采集成功率</div>
+    <div class="stat-value">{{ "%.0f%%"|format(success_rate*100) if success_rate is not none else "暂无数据" }}</div>
+    {% if runs_total %}<div class="muted small">共 {{ runs_total }} 次运行</div>{% endif %}
+  </div>
+  <div class="card stat">
+    <div class="stat-label">今日热点</div>
+    <div class="stat-value">{{ hot_today }} 条</div>
+    <a class="link" href="/hot">查看 24H 热点 →</a>
+  </div>
+  <div class="card stat">
+    <div class="stat-label">本周机会</div>
+    <div class="stat-value">{{ opp_week }} 条</div>
+    <a class="link" href="/opportunities">查看本周机会 →</a>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-head">
+    <h2>🔄 数据更新</h2>
+    <button class="btn" onclick="manualRefresh()">手动刷新</button>
+  </div>
+  <p class="muted small">手动刷新将在阶段二（采集器上线）后可用，届时会立即触发一次全量采集。</p>
+</div>
+
+<div class="card">
+  <h2>📰 本日热点摘要</h2>
+  {% if hot_summary %}<p>{{ hot_summary }}</p>
+  {% else %}<p class="muted">暂无摘要，等待首次采集完成后生成。</p>{% endif %}
+</div>
+
+<div class="card">
+  <h2>💡 本周机会摘要</h2>
+  {% if opp_summary %}<p>{{ opp_summary }}</p>
+  {% else %}<p class="muted">暂无摘要，等待首次采集完成后生成。</p>{% endif %}
+</div>
+
+<div class="card">
+  <div class="card-head"><h2>📡 各信源运行状态</h2><a class="link" href="/status">详情 →</a></div>
+  <table class="table">
+    <thead><tr><th>信源</th><th>状态</th><th>最近成功</th><th>累计条目</th></tr></thead>
+    <tbody>
+    {% for s in sources %}
+      <tr>
+        <td><a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.display_name }}</a></td>
+        <td><span class="badge badge-{{ s.status }}">{{ s.status_label }}</span></td>
+        <td>{{ to_bj(s.last_success_at) if s.last_success_at else "—" }}</td>
+        <td>{{ s.items_collected }}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}

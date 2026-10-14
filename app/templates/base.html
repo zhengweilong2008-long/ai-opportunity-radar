@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}AI 机会雷达{% endblock %}</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<div class="layout">
+  <aside class="sidebar">
+    <div class="brand">📡 AI 机会雷达</div>
+    <nav class="nav">
+      <a href="/" class="{% if active=='home' %}active{% endif %}">🏠 主页</a>
+      <a href="/hot" class="{% if active=='hot' %}active{% endif %}">🔥 24H 热点</a>
+      <a href="/opportunities" class="{% if active=='opportunities' %}active{% endif %}">💡 本周机会</a>
+      <a href="/status" class="{% if active=='status' %}active{% endif %}">🛠️ 运行状态</a>
+    </nav>
+    <div class="side-foot">每天 08:00（北京时间）自动更新</div>
+  </aside>
+  <main class="content">
+    {% block content %}{% endblock %}
+    <footer class="footer">AI 机会雷达 · 数据来源于公开信源，仅供学习参考，不构成投资建议</footer>
+  </main>
+</div>
+<div id="toast" class="toast"></div>
+<script>
+function toast(msg){
+  var t = document.getElementById('toast');
+  t.textContent = msg; t.classList.add('show');
+  setTimeout(function(){ t.classList.remove('show'); }, 3500);
+}
+async function manualRefresh(){
+  toast('正在请求刷新…');
+  try {
+    var r = await fetch('/api/refresh', {method:'POST'});
+    var j = await r.json();
+    toast(j.message || '请求完成');
+  } catch(e){ toast('请求失败：' + e); }
+}
+</script>
+</body>
+</html>

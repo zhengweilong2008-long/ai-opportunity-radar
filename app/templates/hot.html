@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+{% block title %}24H 热点 - AI 机会雷达{% endblock %}
+{% block content %}
+<h1>🔥 24H 热点</h1>
+<p class="muted">{% if is_default %}每天精选 10 条，按热度分数排序。{% else %}筛选结果按热度分数排序。{% endif %}时间为北京时间。</p>
+{% if not llm_enabled %}
+<p class="notice">🌐 当前显示英文原文标题。配置大模型 API 后可自动生成中文标题与摘要（默认关闭，零费用）。</p>
+{% endif %}
+
+<form class="filters" method="get" action="/hot">
+  <label>时间范围
+    <select name="hours" onchange="this.form.submit()">
+      <option value="24" {% if hours==24 %}selected{% endif %}>最近 24 小时</option>
+      <option value="72" {% if hours==72 %}selected{% endif %}>最近 3 天</option>
+      <option value="168" {% if hours==168 %}selected{% endif %}>最近 7 天</option>
+    </select>
+  </label>
+  <label>类别
+    <select name="category" onchange="this.form.submit()">
+      <option value="">全部类别</option>
+      {% for c in categories %}<option value="{{ c }}" {% if category==c %}selected{% endif %}>{{ c }}</option>{% endfor %}
+    </select>
+  </label>
+  <label>来源
+    <select name="source" onchange="this.form.submit()">
+      <option value="">全部来源</option>
+      {% for s in srcs %}<option value="{{ s.name }}" {% if source==s.name %}selected{% endif %}>{{ s.display_name }}</option>{% endfor %}
+    </select>
+  </label>
+</form>
+
+{% if items %}
+  {% for it in items %}
+  <article class="card item">
+    <div class="item-top">
+      <span class="score">{{ "%.0f"|format(it.heat_score or 0) }}<small>/100</small></span>
+      <div>
+        <h3>{{ it.title_cn or it.title_orig }}</h3>
+        <div class="meta">{{ it.source }} · {{ to_bj(it.published_at) }} · {{ it.confidence }}</div>
+      </div>
+    </div>
+    <p>{{ it.summary_cn or "摘要生成中…" }}</p>
+    <div class="reasons">
+      <span class="muted small">评分依据：</span>
+      {% for k, v in it.heat_reasons.items() %}{% if not k.startswith('_') %}<span class="tag">{{ k }} +{{ v }}分</span>{% endif %}{% endfor %}
+      {% if not it.heat_reasons %}<span class="muted small">暂无明细</span>{% endif %}
+    </div>
+    {% if it.heat_reasons.get('_说明') %}<p class="muted small">备注：{{ it.heat_reasons['_说明'] }}</p>{% endif %}
+    <a class="link" href="{{ it.url }}" target="_blank" rel="noopener">阅读原文 →</a>
+  </article>
+  {% endfor %}
+{% else %}
+  <div class="card empty">
+    <p>📭 暂无热点数据。</p>
+    <p class="muted small">采集器将在阶段二上线，每天 08:00（北京时间）自动抓取十个信源并生成热点榜。这里不会展示任何模拟或编造的内容。</p>
+  </div>
+{% endif %}
+{% endblock %}

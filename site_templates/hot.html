@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block title %}24H 热点 - AI 机会雷达{% endblock %}
+{% block content %}
+<h1>🔥 24H 热点</h1>
+<p class="muted">每天精选 10 条，按热度分数排序。时间为北京时间。中文标题由免费机器翻译生成，仅供参考，原文链接为准。</p>
+
+{% if items %}
+  {% for it in items %}
+  <article class="card item">
+    <div class="item-top">
+      <span class="score">{{ "%.0f"|format(it.score or 0) }}<small>/100</small></span>
+      <div>
+        <h3>{{ it.title_cn or it.title_orig }}</h3>
+        <div class="meta">{{ it.source_display }} · {{ it.published_at or "时间未核实" }} · {{ it.confidence }}</div>
+      </div>
+    </div>
+    {% if it.summary_cn %}<p>{{ it.summary_cn }}</p>{% else %}<p class="muted">暂无中文摘要，阅读原文获取详情。</p>{% endif %}
+    <div class="reasons">
+      <span class="muted small">评分依据：</span>
+      {% for k, v in it.reasons.items() %}<span class="tag">{{ k }} +{{ v }}分</span>{% endfor %}
+      {% if not it.reasons %}<span class="muted small">暂无明细</span>{% endif %}
+    </div>
+    {% if it.note %}<p class="muted small">备注：{{ it.note }}</p>{% endif %}
+    <a class="link" href="{{ it.url }}" target="_blank" rel="noopener">阅读原文 →</a>
+  </article>
+  {% endfor %}
+{% else %}
+  <div class="card empty">
+    <p>📭 暂无热点数据。</p>
+    <p class="muted small">等待每日 08:00（北京时间）自动采集完成后生成。这里不会展示任何模拟或编造的内容。</p>
+  </div>
+{% endif %}
+{% endblock %}
