@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Secrets — never commit
+.env
+secrets.env
+*.db
+*.db-journal
+*.pem
+*.key
+
+# Runtime
+logs/
+data/*.db
+.DS_Store
