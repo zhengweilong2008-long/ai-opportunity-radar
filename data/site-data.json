@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T00:07:13.942853+00:00",
-  "date": "2026-11-03",
+  "generated_at": "2026-11-04T00:01:31.237225+00:00",
+  "date": "2026-11-04",
   "hot": [
     {
       "title_cn": null,
@@ -238,23 +238,23 @@
     },
     {
       "title_cn": null,
-      "title_orig": "Skill to Create Product Videos",
+      "title_orig": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
       "summary_cn": null,
-      "url": "https://github.com/aaitor/skill-video-studio",
+      "url": "https://arxiv.org/abs/2605.29713",
       "source": "hackernews",
       "source_display": "Hacker News",
-      "category": "科技",
-      "published_at": "2026-11-03 02:10",
-      "score": 71.8,
+      "category": "AI",
+      "published_at": "2026-11-04 05:40",
+      "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
-        "互动数据": 28.8,
+        "互动数据": 30.0,
         "时效性": 25.0,
         "独立信源": 6.0,
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 55 赞/19 评论；5.9 小时前；1 个独立信源",
+      "note": "HN 157 赞/18 评论；2.3 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -264,6 +264,60 @@
     }
   ],
   "opportunities": [
+    {
+      "title_cn": null,
+      "title_orig": "Stringman, an $800 open-source room scale gripper robot",
+      "summary_cn": null,
+      "url": "https://neufangled.com/",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-04 00:47",
+      "score": 69.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "真实需求证据": 20.0,
+        "变现路径清晰度": 14.0,
+        "低成本启动适配度": 16.0,
+        "趋势增长潜力": 9.0,
+        "竞争与差异化": 5.0,
+        "个人可执行性": 5.0
+      },
+      "note": "高互动（真实数据）；提及付费/API/订阅模式（待验证）；开源/个人项目属性，启动成本低；规则评分，待人工复核",
+      "opp_type": "创业",
+      "cost_range": "预估 ¥0–2,000（主要是个人时间成本；域名/服务器等小额支出）",
+      "monetization": "变现路径待验证：建议先阅读原文确认付费模式，再找 3–5 个潜在付费用户访谈。理论上的盈利空间不等于已验证收入。",
+      "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
+      "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
+      "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
+    },
+    {
+      "title_cn": null,
+      "title_orig": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "summary_cn": null,
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "AI",
+      "published_at": "2026-11-04 01:22",
+      "score": 64.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "真实需求证据": 20.0,
+        "变现路径清晰度": 14.0,
+        "低成本启动适配度": 8.0,
+        "趋势增长潜力": 12.0,
+        "竞争与差异化": 5.0,
+        "个人可执行性": 5.0
+      },
+      "note": "高互动（真实数据）；提及付费/API/订阅模式（待验证）；未明确低成本属性；规则评分，待人工复核",
+      "opp_type": "AI",
+      "cost_range": "预估 ¥0–2,000（主要是个人时间成本；域名/服务器等小额支出）",
+      "monetization": "变现路径待验证：建议先阅读原文确认付费模式，再找 3–5 个潜在付费用户访谈。理论上的盈利空间不等于已验证收入。",
+      "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
+      "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
+      "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
+    },
     {
       "title_cn": "Binance-hacker-1029 – Binance被盗56亿美元",
       "title_orig": "Binance-hacker-1029 – $5.6B stolen from Binance",
@@ -344,66 +398,12 @@
       "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
       "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
       "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
-    },
-    {
-      "title_cn": null,
-      "title_orig": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
-      "summary_cn": null,
-      "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
-      "source": "hackernews",
-      "source_display": "Hacker News",
-      "category": "科技",
-      "published_at": "2026-11-03 01:47",
-      "score": 58.0,
-      "confidence": "实际热度",
-      "reasons": {
-        "真实需求证据": 14.0,
-        "变现路径清晰度": 6.0,
-        "低成本启动适配度": 16.0,
-        "趋势增长潜力": 9.0,
-        "竞争与差异化": 5.0,
-        "个人可执行性": 8.0
-      },
-      "note": "中等互动（真实数据）；未提及明确付费模式；开源/个人项目属性，启动成本低；规则评分，待人工复核",
-      "opp_type": "创业",
-      "cost_range": "预估 ¥0–2,000（主要是个人时间成本；域名/服务器等小额支出）",
-      "monetization": "变现路径待验证：建议先阅读原文确认付费模式，再找 3–5 个潜在付费用户访谈。理论上的盈利空间不等于已验证收入。",
-      "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
-      "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
-      "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
-    },
-    {
-      "title_cn": null,
-      "title_orig": "beacon.sh: Open-source self-improving memory for AI coding agents",
-      "summary_cn": null,
-      "url": "https://www.producthunt.com/r/WB3BWWZDEG2XEW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+AI+Opportunity+Radar+%28ID%3A+308519%29",
-      "source": "producthunt",
-      "source_display": "Product Hunt",
-      "category": "AI",
-      "published_at": "2026-11-02 16:01",
-      "score": 58.0,
-      "confidence": "实际热度",
-      "reasons": {
-        "真实需求证据": 14.0,
-        "变现路径清晰度": 6.0,
-        "低成本启动适配度": 16.0,
-        "趋势增长潜力": 12.0,
-        "竞争与差异化": 5.0,
-        "个人可执行性": 5.0
-      },
-      "note": "中等互动（真实数据）；未提及明确付费模式；开源/个人项目属性，启动成本低；规则评分，待人工复核",
-      "opp_type": "AI",
-      "cost_range": "预估 ¥0–2,000（主要是个人时间成本；域名/服务器等小额支出）",
-      "monetization": "变现路径待验证：建议先阅读原文确认付费模式，再找 3–5 个潜在付费用户访谈。理论上的盈利空间不等于已验证收入。",
-      "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
-      "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
-      "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
     }
   ],
   "stats": {
-    "last_ok": "2026-11-03 08:05",
+    "last_ok": "2026-11-04 08:00",
     "success_rate": 1.0,
-    "runs_total": 24,
+    "runs_total": 25,
     "hot_count": 10,
     "opp_count": 5
   },
@@ -413,8 +413,8 @@
       "display_name": "GitHub Star 增速",
       "url": "https://github.com/trending",
       "status": "ok",
-      "last_success_at": "2026-11-03T00:04:55.952751+00:00",
-      "items_collected": 114,
+      "last_success_at": "2026-11-03T23:59:26.471131+00:00",
+      "items_collected": 115,
       "last_error": null
     },
     {
@@ -422,8 +422,8 @@
       "display_name": "GitHub Trending",
       "url": "https://github.com/trending",
       "status": "ok",
-      "last_success_at": "2026-11-03T00:04:48.065326+00:00",
-      "items_collected": 80,
+      "last_success_at": "2026-11-03T23:59:19.613358+00:00",
+      "items_collected": 84,
       "last_error": null
     },
     {
@@ -431,8 +431,8 @@
       "display_name": "GitHub Trending 分语言",
       "url": "https://github.com/trending",
       "status": "ok",
-      "last_success_at": "2026-11-03T00:05:03.112394+00:00",
-      "items_collected": 210,
+      "last_success_at": "2026-11-03T23:59:31.320294+00:00",
+      "items_collected": 217,
       "last_error": null
     },
     {
@@ -440,8 +440,8 @@
       "display_name": "Google DeepMind",
       "url": "https://deepmind.google/",
       "status": "ok",
-      "last_success_at": "2026-11-03T00:05:55.509650+00:00",
-      "items_collected": 24,
+      "last_success_at": "2026-11-04T00:00:42.705985+00:00",
+      "items_collected": 25,
       "last_error": null
     },
     {
@@ -449,8 +449,8 @@
       "display_name": "Google Trends",
       "url": "https://trends.google.com/trends/",
       "status": "ok",
-      "last_success_at": "2026-11-03T00:05:58.107203+00:00",
-      "items_collected": 227,
+      "last_success_at": "2026-11-04T00:00:44.331831+00:00",
+      "items_collected": 237,
       "last_error": null
     },
     {
@@ -458,8 +458,8 @@
       "display_name": "Hacker News",
       "url": "https://news.ycombinator.com/",
       "status": "ok",
-      "last_success_at": "2026-11-03T00:05:37.449244+00:00",
-      "items_collected": 585,
+      "last_success_at": "2026-11-04T00:00:02.280159+00:00",
+      "items_collected": 614,
       "last_error": null
     },
     {
@@ -467,8 +467,8 @@
       "display_name": "Hugging Face Blog",
       "url": "https://huggingface.co/blog",
       "status": "ok",
-      "last_success_at": "2026-11-03T00:05:45.006720+00:00",
-      "items_collected": 49,
+      "last_success_at": "2026-11-04T00:00:08.600883+00:00",
+      "items_collected": 53,
       "last_error": null
     },
     {
@@ -476,8 +476,8 @@
       "display_name": "OpenAI News",
       "url": "https://openai.com/news/",
       "status": "ok",
-      "last_success_at": "2026-11-03T00:05:42.468676+00:00",
-      "items_collected": 74,
+      "last_success_at": "2026-11-04T00:00:06.506484+00:00",
+      "items_collected": 82,
       "last_error": null
     },
     {
@@ -485,26 +485,26 @@
       "display_name": "Product Hunt",
       "url": "https://www.producthunt.com/",
       "status": "ok",
-      "last_success_at": "2026-11-03T00:05:39.872546+00:00",
-      "items_collected": 399,
+      "last_success_at": "2026-11-04T00:00:04.554871+00:00",
+      "items_collected": 419,
       "last_error": null
     },
     {
       "name": "reuters",
       "display_name": "Reuters",
       "url": "https://www.reuters.com/",
-      "status": "degraded",
+      "status": "failed",
       "last_success_at": null,
       "items_collected": 0,
-      "last_error": null
+      "last_error": "Reuters 无官方接口；Google News 间接覆盖也失败：请求失败（3 次）：https://news.google.com/rss/search?q=site%3Areuters.com+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen：Server error '503 Service Unavailable' for url 'https://news.google.com/rss/search?q=site%3Areuters.com+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503"
     },
     {
       "name": "sec_edgar",
       "display_name": "SEC EDGAR",
       "url": "https://www.sec.gov/edgar/search/",
       "status": "ok",
-      "last_success_at": "2026-11-03T00:05:53.030202+00:00",
-      "items_collected": 560,
+      "last_success_at": "2026-11-04T00:00:40.962479+00:00",
+      "items_collected": 600,
       "last_error": null
     },
     {
@@ -512,12 +512,21 @@
       "display_name": "TechCrunch",
       "url": "https://techcrunch.com/",
       "status": "ok",
-      "last_success_at": "2026-11-03T00:05:47.187250+00:00",
-      "items_collected": 297,
+      "last_success_at": "2026-11-04T00:00:10.134127+00:00",
+      "items_collected": 317,
       "last_error": null
     }
   ],
   "runs": [
+    {
+      "started_at": "2026-11-04 07:59",
+      "status": "partial",
+      "new_items": 144,
+      "deduped_count": 104,
+      "failed_sources": [
+        "reuters"
+      ]
+    },
     {
       "started_at": "2026-11-03 08:04",
       "status": "success",
@@ -579,13 +588,6 @@
       "status": "success",
       "new_items": 160,
       "deduped_count": 105,
-      "failed_sources": []
-    },
-    {
-      "started_at": "2026-10-26 07:59",
-      "status": "success",
-      "new_items": 111,
-      "deduped_count": 150,
       "failed_sources": []
     }
   ]

@@ -1,0 +1,594 @@
+{
+  "generated_at": "2026-11-04T00:01:31.237225+00:00",
+  "date": "2026-11-04",
+  "hot": [
+    {
+      "title_cn": null,
+      "title_orig": "Astra can read and write weights to improve Qwen",
+      "summary_cn": null,
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-03 02:21",
+      "score": 73.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 1719 赞/551 评论；5.7 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": null,
+      "title_orig": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "summary_cn": null,
+      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "投资",
+      "published_at": "2026-11-03 06:30",
+      "score": 73.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 107 赞/56 评论；1.6 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": null,
+      "title_orig": "Apple reports fourth quarter results",
+      "summary_cn": null,
+      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-03 06:13",
+      "score": 73.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 64 赞/53 评论；1.9 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": null,
+      "title_orig": "Anthropic's growth just flattened",
+      "summary_cn": null,
+      "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "AI",
+      "published_at": "2026-11-03 06:33",
+      "score": 73.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 112 赞/131 评论；1.6 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": null,
+      "title_orig": "Egoless Mathematics in the AI Era",
+      "summary_cn": null,
+      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "AI",
+      "published_at": "2026-11-03 02:54",
+      "score": 73.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 96 赞/74 评论；5.2 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": null,
+      "title_orig": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
+      "summary_cn": null,
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-03 02:12",
+      "score": 73.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 89 赞/30 评论；5.9 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": null,
+      "title_orig": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "summary_cn": null,
+      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-03 02:39",
+      "score": 73.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 275 赞/52 评论；5.4 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": null,
+      "title_orig": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+      "summary_cn": null,
+      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "投资",
+      "published_at": "2026-11-03 03:27",
+      "score": 73.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 140 赞/98 评论；4.6 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": null,
+      "title_orig": "Agentic backdoors via pretraining poisoning",
+      "summary_cn": null,
+      "url": "https://arxiv.org/abs/2610.37741",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "AI",
+      "published_at": "2026-11-03 02:30",
+      "score": 73.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 83 赞/28 评论；5.6 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": null,
+      "title_orig": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "summary_cn": null,
+      "url": "https://arxiv.org/abs/2605.29713",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "AI",
+      "published_at": "2026-11-04 05:40",
+      "score": 73.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 157 赞/18 评论；2.3 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    }
+  ],
+  "opportunities": [
+    {
+      "title_cn": null,
+      "title_orig": "Stringman, an $800 open-source room scale gripper robot",
+      "summary_cn": null,
+      "url": "https://neufangled.com/",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-04 00:47",
+      "score": 69.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "真实需求证据": 20.0,
+        "变现路径清晰度": 14.0,
+        "低成本启动适配度": 16.0,
+        "趋势增长潜力": 9.0,
+        "竞争与差异化": 5.0,
+        "个人可执行性": 5.0
+      },
+      "note": "高互动（真实数据）；提及付费/API/订阅模式（待验证）；开源/个人项目属性，启动成本低；规则评分，待人工复核",
+      "opp_type": "创业",
+      "cost_range": "预估 ¥0–2,000（主要是个人时间成本；域名/服务器等小额支出）",
+      "monetization": "变现路径待验证：建议先阅读原文确认付费模式，再找 3–5 个潜在付费用户访谈。理论上的盈利空间不等于已验证收入。",
+      "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
+      "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
+      "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
+    },
+    {
+      "title_cn": null,
+      "title_orig": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "summary_cn": null,
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "AI",
+      "published_at": "2026-11-04 01:22",
+      "score": 64.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "真实需求证据": 20.0,
+        "变现路径清晰度": 14.0,
+        "低成本启动适配度": 8.0,
+        "趋势增长潜力": 12.0,
+        "竞争与差异化": 5.0,
+        "个人可执行性": 5.0
+      },
+      "note": "高互动（真实数据）；提及付费/API/订阅模式（待验证）；未明确低成本属性；规则评分，待人工复核",
+      "opp_type": "AI",
+      "cost_range": "预估 ¥0–2,000（主要是个人时间成本；域名/服务器等小额支出）",
+      "monetization": "变现路径待验证：建议先阅读原文确认付费模式，再找 3–5 个潜在付费用户访谈。理论上的盈利空间不等于已验证收入。",
+      "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
+      "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
+      "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
+    },
+    {
+      "title_cn": "Binance-hacker-1029 – Binance被盗56亿美元",
+      "title_orig": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "summary_cn": null,
+      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-10-30 05:38",
+      "score": 61.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "真实需求证据": 20.0,
+        "变现路径清晰度": 14.0,
+        "低成本启动适配度": 8.0,
+        "趋势增长潜力": 9.0,
+        "竞争与差异化": 5.0,
+        "个人可执行性": 5.0
+      },
+      "note": "高互动（真实数据）；提及付费/API/订阅模式（待验证）；未明确低成本属性；规则评分，待人工复核",
+      "opp_type": "创业",
+      "cost_range": "预估 ¥0–2,000（主要是个人时间成本；域名/服务器等小额支出）",
+      "monetization": "变现路径待验证：建议先阅读原文确认付费模式，再找 3–5 个潜在付费用户访谈。理论上的盈利空间不等于已验证收入。",
+      "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
+      "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
+      "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
+    },
+    {
+      "title_cn": null,
+      "title_orig": "Show HN: I've updated my Linux System Call website and API",
+      "summary_cn": null,
+      "url": "https://syscall.sh/",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-02 17:29",
+      "score": 61.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "真实需求证据": 20.0,
+        "变现路径清晰度": 14.0,
+        "低成本启动适配度": 8.0,
+        "趋势增长潜力": 9.0,
+        "竞争与差异化": 5.0,
+        "个人可执行性": 5.0
+      },
+      "note": "高互动（真实数据）；提及付费/API/订阅模式（待验证）；未明确低成本属性；规则评分，待人工复核",
+      "opp_type": "创业",
+      "cost_range": "预估 ¥0–2,000（主要是个人时间成本；域名/服务器等小额支出）",
+      "monetization": "变现路径待验证：建议先阅读原文确认付费模式，再找 3–5 个潜在付费用户访谈。理论上的盈利空间不等于已验证收入。",
+      "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
+      "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
+      "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
+    },
+    {
+      "title_cn": "构建AI原生工程组织",
+      "title_orig": "Building an AI-native engineering org",
+      "summary_cn": null,
+      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "AI",
+      "published_at": "2026-10-30 05:58",
+      "score": 59.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "真实需求证据": 20.0,
+        "变现路径清晰度": 6.0,
+        "低成本启动适配度": 8.0,
+        "趋势增长潜力": 12.0,
+        "竞争与差异化": 5.0,
+        "个人可执行性": 8.0
+      },
+      "note": "高互动（真实数据）；未提及明确付费模式；未明确低成本属性；规则评分，待人工复核",
+      "opp_type": "AI",
+      "cost_range": "预估 ¥0–2,000（主要是个人时间成本；域名/服务器等小额支出）",
+      "monetization": "变现路径待验证：建议先阅读原文确认付费模式，再找 3–5 个潜在付费用户访谈。理论上的盈利空间不等于已验证收入。",
+      "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
+      "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
+      "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
+    }
+  ],
+  "stats": {
+    "last_ok": "2026-11-04 08:00",
+    "success_rate": 1.0,
+    "runs_total": 25,
+    "hot_count": 10,
+    "opp_count": 5
+  },
+  "sources": [
+    {
+      "name": "github_stars_velocity",
+      "display_name": "GitHub Star 增速",
+      "url": "https://github.com/trending",
+      "status": "ok",
+      "last_success_at": "2026-11-03T23:59:26.471131+00:00",
+      "items_collected": 115,
+      "last_error": null
+    },
+    {
+      "name": "github_trending",
+      "display_name": "GitHub Trending",
+      "url": "https://github.com/trending",
+      "status": "ok",
+      "last_success_at": "2026-11-03T23:59:19.613358+00:00",
+      "items_collected": 84,
+      "last_error": null
+    },
+    {
+      "name": "github_trending_lang",
+      "display_name": "GitHub Trending 分语言",
+      "url": "https://github.com/trending",
+      "status": "ok",
+      "last_success_at": "2026-11-03T23:59:31.320294+00:00",
+      "items_collected": 217,
+      "last_error": null
+    },
+    {
+      "name": "deepmind",
+      "display_name": "Google DeepMind",
+      "url": "https://deepmind.google/",
+      "status": "ok",
+      "last_success_at": "2026-11-04T00:00:42.705985+00:00",
+      "items_collected": 25,
+      "last_error": null
+    },
+    {
+      "name": "google_trends",
+      "display_name": "Google Trends",
+      "url": "https://trends.google.com/trends/",
+      "status": "ok",
+      "last_success_at": "2026-11-04T00:00:44.331831+00:00",
+      "items_collected": 237,
+      "last_error": null
+    },
+    {
+      "name": "hackernews",
+      "display_name": "Hacker News",
+      "url": "https://news.ycombinator.com/",
+      "status": "ok",
+      "last_success_at": "2026-11-04T00:00:02.280159+00:00",
+      "items_collected": 614,
+      "last_error": null
+    },
+    {
+      "name": "hf_blog",
+      "display_name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog",
+      "status": "ok",
+      "last_success_at": "2026-11-04T00:00:08.600883+00:00",
+      "items_collected": 53,
+      "last_error": null
+    },
+    {
+      "name": "openai_news",
+      "display_name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "status": "ok",
+      "last_success_at": "2026-11-04T00:00:06.506484+00:00",
+      "items_collected": 82,
+      "last_error": null
+    },
+    {
+      "name": "producthunt",
+      "display_name": "Product Hunt",
+      "url": "https://www.producthunt.com/",
+      "status": "ok",
+      "last_success_at": "2026-11-04T00:00:04.554871+00:00",
+      "items_collected": 419,
+      "last_error": null
+    },
+    {
+      "name": "reuters",
+      "display_name": "Reuters",
+      "url": "https://www.reuters.com/",
+      "status": "failed",
+      "last_success_at": null,
+      "items_collected": 0,
+      "last_error": "Reuters 无官方接口；Google News 间接覆盖也失败：请求失败（3 次）：https://news.google.com/rss/search?q=site%3Areuters.com+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen：Server error '503 Service Unavailable' for url 'https://news.google.com/rss/search?q=site%3Areuters.com+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503"
+    },
+    {
+      "name": "sec_edgar",
+      "display_name": "SEC EDGAR",
+      "url": "https://www.sec.gov/edgar/search/",
+      "status": "ok",
+      "last_success_at": "2026-11-04T00:00:40.962479+00:00",
+      "items_collected": 600,
+      "last_error": null
+    },
+    {
+      "name": "techcrunch",
+      "display_name": "TechCrunch",
+      "url": "https://techcrunch.com/",
+      "status": "ok",
+      "last_success_at": "2026-11-04T00:00:10.134127+00:00",
+      "items_collected": 317,
+      "last_error": null
+    }
+  ],
+  "runs": [
+    {
+      "started_at": "2026-11-04 07:59",
+      "status": "partial",
+      "new_items": 144,
+      "deduped_count": 104,
+      "failed_sources": [
+        "reuters"
+      ]
+    },
+    {
+      "started_at": "2026-11-03 08:04",
+      "status": "success",
+      "new_items": 163,
+      "deduped_count": 108,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-11-02 07:59",
+      "status": "success",
+      "new_items": 104,
+      "deduped_count": 164,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-11-01 07:59",
+      "status": "success",
+      "new_items": 103,
+      "deduped_count": 160,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-10-31 07:59",
+      "status": "success",
+      "new_items": 158,
+      "deduped_count": 103,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-10-30 07:59",
+      "status": "success",
+      "new_items": 162,
+      "deduped_count": 101,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-10-29 08:03",
+      "status": "success",
+      "new_items": 8,
+      "deduped_count": 257,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-10-29 08:00",
+      "status": "success",
+      "new_items": 159,
+      "deduped_count": 106,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-10-28 07:59",
+      "status": "success",
+      "new_items": 167,
+      "deduped_count": 102,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-10-27 07:59",
+      "status": "success",
+      "new_items": 160,
+      "deduped_count": 105,
+      "failed_sources": []
+    }
+  ]
+}
