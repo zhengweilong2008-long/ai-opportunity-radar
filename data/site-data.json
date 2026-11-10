@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-09T00:01:20.703155+00:00",
-  "date": "2026-11-09",
+  "generated_at": "2026-11-10T00:01:37.679001+00:00",
+  "date": "2026-11-10",
   "hot": [
     {
-      "title_cn": "问问HN ：您在做什么？ （ 2026年11月）",
-      "title_orig": "Ask HN: What are you working on? (November 2026)",
+      "title_cn": "USPS现在提供官方邮政编码边界多边形",
+      "title_orig": "USPS now offers official ZIP Code boundary polygons",
       "summary_cn": null,
-      "url": "https://news.ycombinator.com/item?id=50417407",
+      "url": "https://postalpro.usps.com/zcb",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-09 05:20",
+      "published_at": "2026-11-10 03:58",
       "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
@@ -20,7 +20,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 85 赞/350 评论；2.7 小时前；1 个独立信源",
+      "note": "HN 385 赞/193 评论；4.0 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -29,14 +29,14 @@
       "next_action": null
     },
     {
-      "title_cn": "DUX ：带文件管理器和主题的免费开源Wayland桌面外壳",
-      "title_orig": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "title_cn": "TPU",
+      "title_orig": "TPUs",
       "summary_cn": null,
-      "url": "https://duxlabs.dev/",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-09 03:08",
+      "published_at": "2026-11-10 05:56",
       "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
@@ -46,7 +46,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 162 赞/52 评论；4.9 小时前；1 个独立信源",
+      "note": "HN 140 赞/18 评论；2.1 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -55,14 +55,14 @@
       "next_action": null
     },
     {
-      "title_cn": "Outlook.com正在安静地拒绝来自没有DMARC的域名的电子邮件",
-      "title_orig": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "title_cn": "克劳德寓言5.2得分65人工分析，迄今为止最高",
+      "title_orig": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
       "summary_cn": null,
-      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-09 03:20",
+      "published_at": "2026-11-10 04:04",
       "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
@@ -72,7 +72,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 200 赞/160 评论；4.7 小时前；1 个独立信源",
+      "note": "HN 252 赞/165 评论；3.9 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -81,66 +81,14 @@
       "next_action": null
     },
     {
-      "title_cn": "高盛(Goldman Sachs)正在从其银行家和交易员手中撤出Claude Code",
-      "title_orig": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "title_cn": "Google Gemini将个人云端硬盘文件和电子邮件路由到人工注释器",
+      "title_orig": "Google Gemini routes personal Drive files and emails to human annotators",
       "summary_cn": null,
-      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "source": "hackernews",
-      "source_display": "Hacker News",
-      "category": "科技",
-      "published_at": "2026-11-09 02:16",
-      "score": 73.0,
-      "confidence": "实际热度",
-      "reasons": {
-        "互动数据": 30.0,
-        "时效性": 25.0,
-        "独立信源": 6.0,
-        "信源可靠性": 12.0,
-        "趋势增长": 0.0
-      },
-      "note": "HN 542 赞/329 评论；5.7 小时前；1 个独立信源",
-      "opp_type": null,
-      "cost_range": null,
-      "monetization": null,
-      "mvp_plan": null,
-      "risks": null,
-      "next_action": null
-    },
-    {
-      "title_cn": "英伟达首席执行官Jensen Huang致员工关于婚外情的信",
-      "title_orig": "Nvidia CEO Jensen Huang's letter to staff about affair",
-      "summary_cn": null,
-      "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
-      "source": "hackernews",
-      "source_display": "Hacker News",
-      "category": "科技",
-      "published_at": "2026-11-09 06:20",
-      "score": 73.0,
-      "confidence": "实际热度",
-      "reasons": {
-        "互动数据": 30.0,
-        "时效性": 25.0,
-        "独立信源": 6.0,
-        "信源可靠性": 12.0,
-        "趋势增长": 0.0
-      },
-      "note": "HN 238 赞/232 评论；1.7 小时前；1 个独立信源",
-      "opp_type": null,
-      "cost_range": null,
-      "monetization": null,
-      "mvp_plan": null,
-      "risks": null,
-      "next_action": null
-    },
-    {
-      "title_cn": "我如何对抗AI Brain Fry",
-      "title_orig": "How I Fight AI Brain Fry",
-      "summary_cn": null,
-      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "url": "https://github.com/thisisme6598/gemini_files/",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "AI",
-      "published_at": "2026-11-09 03:37",
+      "published_at": "2026-11-10 02:24",
       "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
@@ -150,7 +98,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 127 赞/112 评论；4.4 小时前；1 个独立信源",
+      "note": "HN 307 赞/62 评论；5.6 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -159,14 +107,14 @@
       "next_action": null
     },
     {
-      "title_cn": "英伟达董事会正在调查Jensen Huang",
-      "title_orig": "Nvidia Board of Directors Is Investigating Jensen Huang",
+      "title_cn": "E-means ：等损耗时k-means快10倍",
+      "title_orig": "E-means: 10x faster k-means at equal loss",
       "summary_cn": null,
-      "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "url": "https://e-means.github.io/",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-09 04:26",
+      "published_at": "2026-11-10 02:45",
       "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
@@ -176,7 +124,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 333 赞/260 评论；3.6 小时前；1 个独立信源",
+      "note": "HN 240 赞/14 评论；5.3 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -185,14 +133,14 @@
       "next_action": null
     },
     {
-      "title_cn": "11月13日的Starship Flight 15计划同时搭载助推器和船只",
-      "title_orig": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
+      "title_cn": "CUI – C的本机UI组件",
+      "title_orig": "CUI – Native UI components for C",
       "summary_cn": null,
-      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "url": "https://yappologistic.github.io/CUI/",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-09 03:49",
+      "published_at": "2026-11-10 03:35",
       "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
@@ -202,7 +150,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 71 赞/28 评论；4.2 小时前；1 个独立信源",
+      "note": "HN 138 赞/70 评论；4.4 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -211,24 +159,24 @@
       "next_action": null
     },
     {
-      "title_cn": "网络远远不够，作者：保罗·福特",
-      "title_orig": "The Web Is More Than Enough, by Paul Ford",
+      "title_cn": "英飞凌以300mm功率碳化硅晶圆标志着创新的里程碑",
+      "title_orig": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
       "summary_cn": null,
-      "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+      "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-09 03:48",
-      "score": 71.7,
+      "published_at": "2026-11-10 02:25",
+      "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
-        "互动数据": 28.7,
+        "互动数据": 30.0,
         "时效性": 25.0,
         "独立信源": 6.0,
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 49 赞/23 评论；4.2 小时前；1 个独立信源",
+      "note": "HN 91 赞/55 评论；5.6 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -237,24 +185,76 @@
       "next_action": null
     },
     {
-      "title_cn": "KetchUp –使用Rust和WebGPU构建的开源SketchUp替代方案",
-      "title_orig": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "title_cn": "Claude Fable 5.2和Mythos 5.2",
+      "title_orig": "Claude Fable 5.2 and Mythos 5.2",
       "summary_cn": null,
-      "url": "https://ketchup3d.github.io/app/",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-09 06:35",
-      "score": 69.6,
+      "published_at": "2026-11-10 02:56",
+      "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
-        "互动数据": 26.6,
+        "互动数据": 30.0,
         "时效性": 25.0,
         "独立信源": 6.0,
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 66 赞/5 评论；1.4 小时前；1 个独立信源",
+      "note": "HN 850 赞/514 评论；5.1 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": "Show HN ： MeowDisplay是iPhone镜像，但反过来",
+      "title_orig": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+      "summary_cn": null,
+      "url": "https://meowdisplay.app/",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-10 02:39",
+      "score": 73.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 70 赞/25 评论；5.4 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": "DeepX声称在低于5 W的情况下可推断高达100B的参数",
+      "title_orig": "DeepX claims inference up to 100B parameters at less than 5 W",
+      "summary_cn": null,
+      "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-10 02:33",
+      "score": 73.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 133 赞/22 评论；5.4 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -401,9 +401,9 @@
     }
   ],
   "stats": {
-    "last_ok": "2026-11-09 08:00",
+    "last_ok": "2026-11-10 08:00",
     "success_rate": 1.0,
-    "runs_total": 30,
+    "runs_total": 31,
     "hot_count": 10,
     "opp_count": 5
   },
@@ -413,8 +413,8 @@
       "display_name": "GitHub Star 增速",
       "url": "https://github.com/trending",
       "status": "ok",
-      "last_success_at": "2026-11-08T23:59:41.513582+00:00",
-      "items_collected": 127,
+      "last_success_at": "2026-11-09T23:59:41.831988+00:00",
+      "items_collected": 131,
       "last_error": null
     },
     {
@@ -422,7 +422,7 @@
       "display_name": "GitHub Trending",
       "url": "https://github.com/trending",
       "status": "ok",
-      "last_success_at": "2026-11-08T23:59:34.757933+00:00",
+      "last_success_at": "2026-11-09T23:59:34.965464+00:00",
       "items_collected": 111,
       "last_error": null
     },
@@ -431,7 +431,7 @@
       "display_name": "GitHub Trending 分语言",
       "url": "https://github.com/trending",
       "status": "ok",
-      "last_success_at": "2026-11-08T23:59:45.681608+00:00",
+      "last_success_at": "2026-11-09T23:59:45.712711+00:00",
       "items_collected": 265,
       "last_error": null
     },
@@ -440,7 +440,7 @@
       "display_name": "Google DeepMind",
       "url": "https://deepmind.google/",
       "status": "ok",
-      "last_success_at": "2026-11-09T00:00:33.462618+00:00",
+      "last_success_at": "2026-11-10T00:00:32.244056+00:00",
       "items_collected": 26,
       "last_error": null
     },
@@ -449,8 +449,8 @@
       "display_name": "Google Trends",
       "url": "https://trends.google.com/trends/",
       "status": "ok",
-      "last_success_at": "2026-11-09T00:00:34.903112+00:00",
-      "items_collected": 287,
+      "last_success_at": "2026-11-10T00:00:33.626354+00:00",
+      "items_collected": 297,
       "last_error": null
     },
     {
@@ -458,8 +458,8 @@
       "display_name": "Hacker News",
       "url": "https://news.ycombinator.com/",
       "status": "ok",
-      "last_success_at": "2026-11-09T00:00:20.208673+00:00",
-      "items_collected": 761,
+      "last_success_at": "2026-11-10T00:00:17.999550+00:00",
+      "items_collected": 790,
       "last_error": null
     },
     {
@@ -467,8 +467,8 @@
       "display_name": "Hugging Face Blog",
       "url": "https://huggingface.co/blog",
       "status": "ok",
-      "last_success_at": "2026-11-09T00:00:26.741241+00:00",
-      "items_collected": 58,
+      "last_success_at": "2026-11-10T00:00:23.424692+00:00",
+      "items_collected": 60,
       "last_error": null
     },
     {
@@ -476,8 +476,8 @@
       "display_name": "OpenAI News",
       "url": "https://openai.com/news/",
       "status": "ok",
-      "last_success_at": "2026-11-09T00:00:25.057003+00:00",
-      "items_collected": 96,
+      "last_success_at": "2026-11-10T00:00:21.598193+00:00",
+      "items_collected": 100,
       "last_error": null
     },
     {
@@ -485,8 +485,8 @@
       "display_name": "Product Hunt",
       "url": "https://www.producthunt.com/",
       "status": "ok",
-      "last_success_at": "2026-11-09T00:00:23.102606+00:00",
-      "items_collected": 519,
+      "last_success_at": "2026-11-10T00:00:19.730899+00:00",
+      "items_collected": 539,
       "last_error": null
     },
     {
@@ -503,8 +503,8 @@
       "display_name": "SEC EDGAR",
       "url": "https://www.sec.gov/edgar/search/",
       "status": "ok",
-      "last_success_at": "2026-11-09T00:00:31.699898+00:00",
-      "items_collected": 720,
+      "last_success_at": "2026-11-10T00:00:30.069957+00:00",
+      "items_collected": 760,
       "last_error": null
     },
     {
@@ -512,12 +512,19 @@
       "display_name": "TechCrunch",
       "url": "https://techcrunch.com/",
       "status": "ok",
-      "last_success_at": "2026-11-09T00:00:28.375570+00:00",
-      "items_collected": 389,
+      "last_success_at": "2026-11-10T00:00:25.048229+00:00",
+      "items_collected": 409,
       "last_error": null
     }
   ],
   "runs": [
+    {
+      "started_at": "2026-11-10 07:59",
+      "status": "success",
+      "new_items": 149,
+      "deduped_count": 120,
+      "failed_sources": []
+    },
     {
       "started_at": "2026-11-09 07:59",
       "status": "success",
@@ -581,13 +588,6 @@
       "status": "success",
       "new_items": 103,
       "deduped_count": 160,
-      "failed_sources": []
-    },
-    {
-      "started_at": "2026-10-31 07:59",
-      "status": "success",
-      "new_items": 158,
-      "deduped_count": 103,
       "failed_sources": []
     }
   ]
