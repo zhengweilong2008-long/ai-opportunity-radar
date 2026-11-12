@@ -1,0 +1,594 @@
+{
+  "generated_at": "2026-11-12T00:01:44.667771+00:00",
+  "date": "2026-11-12",
+  "hot": [
+    {
+      "title_cn": "AWS 模拟器",
+      "title_orig": "AWS emulator",
+      "summary_cn": null,
+      "url": "https://github.com/aws/aws-emulator",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-12 02:21",
+      "score": 73.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 594 赞/201 评论；5.7 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": "美国联合航空公司禁止人工智能代理代表旅客预订航班",
+      "title_orig": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "summary_cn": null,
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "AI",
+      "published_at": "2026-11-12 05:24",
+      "score": 73.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 276 赞/252 评论；2.6 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": null,
+      "title_orig": "Gemini Decisions API",
+      "summary_cn": null,
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "AI",
+      "published_at": "2026-11-12 02:32",
+      "score": 73.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 216 赞/73 评论；5.5 小时前；1 个独立信源",
+      "opp_type": "AI",
+      "cost_range": "预估 ¥0–2,000（主要是个人时间成本；域名/服务器等小额支出）",
+      "monetization": "变现路径待验证：建议先阅读原文确认付费模式，再找 3–5 个潜在付费用户访谈。理论上的盈利空间不等于已验证收入。",
+      "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
+      "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
+      "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
+    },
+    {
+      "title_cn": "魔法时代的 Emacs",
+      "title_orig": "Emacs in the Age of Magic",
+      "summary_cn": null,
+      "url": "https://commandlinesystems.com/magic.txt",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-12 04:26",
+      "score": 73.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 122 赞/43 评论；3.6 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": "Show HN：我重制了《请出示证件》，但由您来决定资助哪些YC初创公司",
+      "title_orig": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+      "summary_cn": null,
+      "url": "https://termsheetplease.com/",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "创业",
+      "published_at": "2026-11-12 03:12",
+      "score": 73.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 152 赞/69 评论；4.8 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": "锁定您的 GitHub Actions",
+      "title_orig": "Lock Your GitHub Actions",
+      "summary_cn": null,
+      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-12 06:16",
+      "score": 72.3,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 29.3,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 71 赞/14 评论；1.7 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": "IBM Quantum Nighthawk展现出全新水平的速度和质量",
+      "title_orig": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality",
+      "summary_cn": null,
+      "url": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-12 03:47",
+      "score": 71.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 28.0,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 44 赞/22 评论；4.2 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": "华为发布用于本地推理的内部量化器 MACaQ",
+      "title_orig": "Huawei releases MACaQ, its internal quantizer for local inference",
+      "summary_cn": null,
+      "url": "https://github.com/huawei-csl/MACaQ",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-12 04:23",
+      "score": 70.9,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 27.9,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 46 赞/19 评论；3.6 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": "犹他茶壶",
+      "title_orig": "The Utah Teapot",
+      "summary_cn": null,
+      "url": "https://graphics.cs.utah.edu/teapot/",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-12 03:45",
+      "score": 70.5,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 27.5,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 51 赞/13 评论；4.3 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": "93% 的颜料飞溅是有效的 Perl 程序（2019 年）",
+      "title_orig": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+      "summary_cn": null,
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-12 06:34",
+      "score": 70.3,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 27.3,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 56 赞/10 评论；1.4 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    }
+  ],
+  "opportunities": [
+    {
+      "title_cn": null,
+      "title_orig": "Gemini Decisions API",
+      "summary_cn": null,
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "AI",
+      "published_at": "2026-11-12 02:32",
+      "score": 64.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "真实需求证据": 20.0,
+        "变现路径清晰度": 14.0,
+        "低成本启动适配度": 8.0,
+        "趋势增长潜力": 12.0,
+        "竞争与差异化": 5.0,
+        "个人可执行性": 5.0
+      },
+      "note": "高互动（真实数据）；提及付费/API/订阅模式（待验证）；未明确低成本属性；规则评分，待人工复核",
+      "opp_type": "AI",
+      "cost_range": "预估 ¥0–2,000（主要是个人时间成本；域名/服务器等小额支出）",
+      "monetization": "变现路径待验证：建议先阅读原文确认付费模式，再找 3–5 个潜在付费用户访谈。理论上的盈利空间不等于已验证收入。",
+      "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
+      "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
+      "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
+    },
+    {
+      "title_cn": "我在$ 10美元的OpenStick homeelab上运行的内容",
+      "title_orig": "What I run on my $10 USD OpenStick homelab",
+      "summary_cn": null,
+      "url": "https://blog.bosscher.ch/posts/openstick/",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-08 02:12",
+      "score": 61.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "真实需求证据": 20.0,
+        "变现路径清晰度": 14.0,
+        "低成本启动适配度": 8.0,
+        "趋势增长潜力": 9.0,
+        "竞争与差异化": 5.0,
+        "个人可执行性": 5.0
+      },
+      "note": "高互动（真实数据）；提及付费/API/订阅模式（待验证）；未明确低成本属性；规则评分，待人工复核",
+      "opp_type": "创业",
+      "cost_range": "预估 ¥0–2,000（主要是个人时间成本；域名/服务器等小额支出）",
+      "monetization": "变现路径待验证：建议先阅读原文确认付费模式，再找 3–5 个潜在付费用户访谈。理论上的盈利空间不等于已验证收入。",
+      "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
+      "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
+      "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
+    },
+    {
+      "title_cn": "Nod by n8n：拥有自己电脑的开源个人代理",
+      "title_orig": "Nod by n8n: Open source personal agent with its own computer",
+      "summary_cn": "Nod 在您的 Mac 或 PC 上使用其专用的私有计算机，在您的应用程序和真实网站上围绕您的工作开展工作。它只接受您的指令，在执行您未曾要求的任何操作之前都会征求您的意见，并且",
+      "url": "https://www.producthunt.com/r/BVJTK5BATUSE7H?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+AI+Opportunity+Radar+%28ID%3A+308519%29",
+      "source": "producthunt",
+      "source_display": "Product Hunt",
+      "category": "AI",
+      "published_at": "2026-11-11 16:01",
+      "score": 61.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "真实需求证据": 14.0,
+        "变现路径清晰度": 6.0,
+        "低成本启动适配度": 16.0,
+        "趋势增长潜力": 12.0,
+        "竞争与差异化": 5.0,
+        "个人可执行性": 8.0
+      },
+      "note": "中等互动（真实数据）；未提及明确付费模式；开源/个人项目属性，启动成本低；规则评分，待人工复核",
+      "opp_type": "AI",
+      "cost_range": "预估 ¥0–2,000（主要是个人时间成本；域名/服务器等小额支出）",
+      "monetization": "变现路径待验证：建议先阅读原文确认付费模式，再找 3–5 个潜在付费用户访谈。理论上的盈利空间不等于已验证收入。",
+      "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
+      "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
+      "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
+    },
+    {
+      "title_cn": "Clocknext ：人工智能代理的定价和计费基础设施",
+      "title_orig": "Clocknext: Pricing and Billing Infrastructure for AI Agents",
+      "summary_cn": "Clocknext是面向AI原生应用和代理的计费和货币化平台。它专为人工智能创始人、收入和工程团队量身定制，可实时跟踪产品中的人工智能使用情况，",
+      "url": "https://www.producthunt.com/r/7IUKMVZUC4C7ZY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+AI+Opportunity+Radar+%28ID%3A+308519%29",
+      "source": "producthunt",
+      "source_display": "Product Hunt",
+      "category": "AI",
+      "published_at": "2026-11-05 16:01",
+      "score": 58.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "真实需求证据": 14.0,
+        "变现路径清晰度": 14.0,
+        "低成本启动适配度": 8.0,
+        "趋势增长潜力": 12.0,
+        "竞争与差异化": 5.0,
+        "个人可执行性": 5.0
+      },
+      "note": "中等互动（真实数据）；提及付费/API/订阅模式（待验证）；未明确低成本属性；规则评分，待人工复核",
+      "opp_type": "AI",
+      "cost_range": "预估 ¥0–2,000（主要是个人时间成本；域名/服务器等小额支出）",
+      "monetization": "变现路径待验证：建议先阅读原文确认付费模式，再找 3–5 个潜在付费用户访谈。理论上的盈利空间不等于已验证收入。",
+      "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
+      "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
+      "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
+    },
+    {
+      "title_cn": "Anthropic IPO买家认为估值低至1.1万亿$",
+      "title_orig": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "summary_cn": null,
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "投资",
+      "published_at": "2026-11-07 00:54",
+      "score": 58.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "真实需求证据": 20.0,
+        "变现路径清晰度": 14.0,
+        "低成本启动适配度": 8.0,
+        "趋势增长潜力": 6.0,
+        "竞争与差异化": 5.0,
+        "个人可执行性": 5.0
+      },
+      "note": "高互动（真实数据）；提及付费/API/订阅模式（待验证）；未明确低成本属性；规则评分，待人工复核",
+      "opp_type": "投资",
+      "cost_range": "预估 ¥0–2,000（主要是个人时间成本；域名/服务器等小额支出）",
+      "monetization": "变现路径待验证：建议先阅读原文确认付费模式，再找 3–5 个潜在付费用户访谈。理论上的盈利空间不等于已验证收入。",
+      "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
+      "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
+      "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
+    }
+  ],
+  "stats": {
+    "last_ok": "2026-11-12 08:00",
+    "success_rate": 1.0,
+    "runs_total": 33,
+    "hot_count": 10,
+    "opp_count": 5
+  },
+  "sources": [
+    {
+      "name": "github_stars_velocity",
+      "display_name": "GitHub Star 增速",
+      "url": "https://github.com/trending",
+      "status": "ok",
+      "last_success_at": "2026-11-11T23:59:35.537174+00:00",
+      "items_collected": 138,
+      "last_error": null
+    },
+    {
+      "name": "github_trending",
+      "display_name": "GitHub Trending",
+      "url": "https://github.com/trending",
+      "status": "ok",
+      "last_success_at": "2026-11-11T23:59:28.584154+00:00",
+      "items_collected": 117,
+      "last_error": null
+    },
+    {
+      "name": "github_trending_lang",
+      "display_name": "GitHub Trending 分语言",
+      "url": "https://github.com/trending",
+      "status": "ok",
+      "last_success_at": "2026-11-11T23:59:39.702250+00:00",
+      "items_collected": 280,
+      "last_error": null
+    },
+    {
+      "name": "deepmind",
+      "display_name": "Google DeepMind",
+      "url": "https://deepmind.google/",
+      "status": "ok",
+      "last_success_at": "2026-11-12T00:00:28.849756+00:00",
+      "items_collected": 29,
+      "last_error": null
+    },
+    {
+      "name": "google_trends",
+      "display_name": "Google Trends",
+      "url": "https://trends.google.com/trends/",
+      "status": "ok",
+      "last_success_at": "2026-11-12T00:00:30.425495+00:00",
+      "items_collected": 317,
+      "last_error": null
+    },
+    {
+      "name": "hackernews",
+      "display_name": "Hacker News",
+      "url": "https://news.ycombinator.com/",
+      "status": "ok",
+      "last_success_at": "2026-11-12T00:00:14.752641+00:00",
+      "items_collected": 849,
+      "last_error": null
+    },
+    {
+      "name": "hf_blog",
+      "display_name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog",
+      "status": "ok",
+      "last_success_at": "2026-11-12T00:00:21.266492+00:00",
+      "items_collected": 64,
+      "last_error": null
+    },
+    {
+      "name": "openai_news",
+      "display_name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "status": "ok",
+      "last_success_at": "2026-11-12T00:00:19.400682+00:00",
+      "items_collected": 109,
+      "last_error": null
+    },
+    {
+      "name": "producthunt",
+      "display_name": "Product Hunt",
+      "url": "https://www.producthunt.com/",
+      "status": "ok",
+      "last_success_at": "2026-11-12T00:00:17.496634+00:00",
+      "items_collected": 579,
+      "last_error": null
+    },
+    {
+      "name": "reuters",
+      "display_name": "Reuters",
+      "url": "https://www.reuters.com/",
+      "status": "degraded",
+      "last_success_at": null,
+      "items_collected": 0,
+      "last_error": null
+    },
+    {
+      "name": "sec_edgar",
+      "display_name": "SEC EDGAR",
+      "url": "https://www.sec.gov/edgar/search/",
+      "status": "ok",
+      "last_success_at": "2026-11-12T00:00:27.328236+00:00",
+      "items_collected": 800,
+      "last_error": null
+    },
+    {
+      "name": "techcrunch",
+      "display_name": "TechCrunch",
+      "url": "https://techcrunch.com/",
+      "status": "ok",
+      "last_success_at": "2026-11-12T00:00:23.143192+00:00",
+      "items_collected": 445,
+      "last_error": null
+    }
+  ],
+  "runs": [
+    {
+      "started_at": "2026-11-12 07:59",
+      "status": "success",
+      "new_items": 114,
+      "deduped_count": 148,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-11-11 07:59",
+      "status": "success",
+      "new_items": 165,
+      "deduped_count": 101,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-11-10 07:59",
+      "status": "success",
+      "new_items": 149,
+      "deduped_count": 120,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-11-09 07:59",
+      "status": "success",
+      "new_items": 99,
+      "deduped_count": 171,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-11-08 07:59",
+      "status": "success",
+      "new_items": 122,
+      "deduped_count": 151,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-11-07 07:59",
+      "status": "success",
+      "new_items": 163,
+      "deduped_count": 104,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-11-06 07:59",
+      "status": "success",
+      "new_items": 156,
+      "deduped_count": 114,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-11-05 07:59",
+      "status": "success",
+      "new_items": 156,
+      "deduped_count": 109,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-11-04 07:59",
+      "status": "partial",
+      "new_items": 144,
+      "deduped_count": 104,
+      "failed_sources": [
+        "reuters"
+      ]
+    },
+    {
+      "started_at": "2026-11-03 08:04",
+      "status": "success",
+      "new_items": 163,
+      "deduped_count": 108,
+      "failed_sources": []
+    }
+  ]
+}
