@@ -1,0 +1,592 @@
+{
+  "generated_at": "2026-11-15T00:01:23.503985+00:00",
+  "date": "2026-11-15",
+  "hot": [
+    {
+      "title_cn": "在加拿大广播公司（CBC）的调查之后，LinkedIn和Monster删除了1000多条虚假招聘信息",
+      "title_orig": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+      "summary_cn": null,
+      "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-15 02:56",
+      "score": 73.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 162 赞/82 评论；5.1 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": "英伟达通过循环融资交易故意维持高昂的显卡价格",
+      "title_orig": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "summary_cn": null,
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-15 06:26",
+      "score": 72.4,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 29.4,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 53 赞/26 评论；1.6 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": "达特茅斯学院（瓜里尼）今年将不招收数学博士生",
+      "title_orig": "Dartmouth (Guarini) will not admit math PhD cohort this year",
+      "summary_cn": null,
+      "url": "https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-15 03:23",
+      "score": 72.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 29.0,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 61 赞/17 评论；4.6 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": "L3Harris关于11月13日停飞的声明",
+      "title_orig": "L3Harris statement on the Nov. 13 ground stop",
+      "summary_cn": null,
+      "url": "https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-15 06:51",
+      "score": 69.8,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 26.8,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 42 赞/15 评论；1.2 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": "Lovable 应用泄露护照信息和超过 20 万条私人消息",
+      "title_orig": "Lovable apps expose passport details and more than 200K private messages",
+      "summary_cn": null,
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-15 01:43",
+      "score": 68.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 20.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 584 赞/239 评论；6.3 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": "软件职位族谱",
+      "title_orig": "A family tree of software job titles",
+      "summary_cn": null,
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-15 01:45",
+      "score": 68.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 20.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 181 赞/83 评论；6.3 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": "KDE：纪录片[视频]",
+      "title_orig": "KDE: The documentary [video]",
+      "summary_cn": null,
+      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-14 21:43",
+      "score": 68.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 20.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 360 赞/75 评论；10.3 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": null,
+      "title_orig": "PyPI's redesigned project pages with clearer security signals are now live",
+      "summary_cn": null,
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-14 23:40",
+      "score": 68.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 20.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 192 赞/86 评论；8.3 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": "通过 Antigravity 的团队合作推动科学和工程发展",
+      "title_orig": "Advancing science and engineering with Antigravity's /teamwork",
+      "summary_cn": null,
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-14 21:20",
+      "score": 68.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 20.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 154 赞/35 评论；10.7 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": "Show HN：约200行纯JAX代码实现的DeepSeek V3",
+      "title_orig": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "summary_cn": null,
+      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-14 23:04",
+      "score": 68.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 20.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 145 赞/8 评论；8.9 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    }
+  ],
+  "opportunities": [
+    {
+      "title_cn": null,
+      "title_orig": "Gemini Decisions API",
+      "summary_cn": null,
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "AI",
+      "published_at": "2026-11-12 02:32",
+      "score": 64.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "真实需求证据": 20.0,
+        "变现路径清晰度": 14.0,
+        "低成本启动适配度": 8.0,
+        "趋势增长潜力": 12.0,
+        "竞争与差异化": 5.0,
+        "个人可执行性": 5.0
+      },
+      "note": "高互动（真实数据）；提及付费/API/订阅模式（待验证）；未明确低成本属性；规则评分，待人工复核",
+      "opp_type": "AI",
+      "cost_range": "预估 ¥0–2,000（主要是个人时间成本；域名/服务器等小额支出）",
+      "monetization": "变现路径待验证：建议先阅读原文确认付费模式，再找 3–5 个潜在付费用户访谈。理论上的盈利空间不等于已验证收入。",
+      "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
+      "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
+      "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
+    },
+    {
+      "title_cn": "Nod by n8n：拥有自己电脑的开源个人代理",
+      "title_orig": "Nod by n8n: Open source personal agent with its own computer",
+      "summary_cn": "Nod 在您的 Mac 或 PC 上使用其专用的私有计算机，在您的应用程序和真实网站上围绕您的工作开展工作。它只接受您的指令，在执行您未曾要求的任何操作之前都会征求您的意见，并且",
+      "url": "https://www.producthunt.com/r/BVJTK5BATUSE7H?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+AI+Opportunity+Radar+%28ID%3A+308519%29",
+      "source": "producthunt",
+      "source_display": "Product Hunt",
+      "category": "AI",
+      "published_at": "2026-11-11 16:01",
+      "score": 61.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "真实需求证据": 14.0,
+        "变现路径清晰度": 6.0,
+        "低成本启动适配度": 16.0,
+        "趋势增长潜力": 12.0,
+        "竞争与差异化": 5.0,
+        "个人可执行性": 8.0
+      },
+      "note": "中等互动（真实数据）；未提及明确付费模式；开源/个人项目属性，启动成本低；规则评分，待人工复核",
+      "opp_type": "AI",
+      "cost_range": "预估 ¥0–2,000（主要是个人时间成本；域名/服务器等小额支出）",
+      "monetization": "变现路径待验证：建议先阅读原文确认付费模式，再找 3–5 个潜在付费用户访谈。理论上的盈利空间不等于已验证收入。",
+      "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
+      "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
+      "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
+    },
+    {
+      "title_cn": "Show HN：我的300美元刺绣机需要订阅，所以我自己开发了一款应用",
+      "title_orig": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "summary_cn": null,
+      "url": "https://github.com/simpsoka/zigzag",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-13 01:02",
+      "score": 61.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "真实需求证据": 20.0,
+        "变现路径清晰度": 14.0,
+        "低成本启动适配度": 8.0,
+        "趋势增长潜力": 9.0,
+        "竞争与差异化": 5.0,
+        "个人可执行性": 5.0
+      },
+      "note": "高互动（真实数据）；提及付费/API/订阅模式（待验证）；未明确低成本属性；规则评分，待人工复核",
+      "opp_type": "创业",
+      "cost_range": "预估 ¥0–2,000（主要是个人时间成本；域名/服务器等小额支出）",
+      "monetization": "变现路径待验证：建议先阅读原文确认付费模式，再找 3–5 个潜在付费用户访谈。理论上的盈利空间不等于已验证收入。",
+      "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
+      "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
+      "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
+    },
+    {
+      "title_cn": "Omnigraph：适用于您的 AI 代理的开源图数据库",
+      "title_orig": "Omnigraph: Open source graph database for your AI agents",
+      "summary_cn": "Omnigraph 是一款开源的对象存储原生图数据库，具有分支和类型化本体。它使人工智能代理能够安全地就共享知识进行协作。为代理提供一个带有 Git-lik 的类型化图",
+      "url": "https://www.producthunt.com/r/FZKF5GOW432WWF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+AI+Opportunity+Radar+%28ID%3A+308519%29",
+      "source": "producthunt",
+      "source_display": "Product Hunt",
+      "category": "AI",
+      "published_at": "2026-11-12 16:01",
+      "score": 61.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "真实需求证据": 14.0,
+        "变现路径清晰度": 6.0,
+        "低成本启动适配度": 16.0,
+        "趋势增长潜力": 12.0,
+        "竞争与差异化": 5.0,
+        "个人可执行性": 8.0
+      },
+      "note": "中等互动（真实数据）；未提及明确付费模式；开源/个人项目属性，启动成本低；规则评分，待人工复核",
+      "opp_type": "AI",
+      "cost_range": "预估 ¥0–2,000（主要是个人时间成本；域名/服务器等小额支出）",
+      "monetization": "变现路径待验证：建议先阅读原文确认付费模式，再找 3–5 个潜在付费用户访谈。理论上的盈利空间不等于已验证收入。",
+      "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
+      "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
+      "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
+    },
+    {
+      "title_cn": "价值1140万美元的Nvidia硬件在从加州运往德州的途中不翼而飞",
+      "title_orig": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+      "summary_cn": null,
+      "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-14 02:40",
+      "score": 61.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "真实需求证据": 20.0,
+        "变现路径清晰度": 14.0,
+        "低成本启动适配度": 8.0,
+        "趋势增长潜力": 9.0,
+        "竞争与差异化": 5.0,
+        "个人可执行性": 5.0
+      },
+      "note": "高互动（真实数据）；提及付费/API/订阅模式（待验证）；未明确低成本属性；规则评分，待人工复核",
+      "opp_type": "创业",
+      "cost_range": "预估 ¥0–2,000（主要是个人时间成本；域名/服务器等小额支出）",
+      "monetization": "变现路径待验证：建议先阅读原文确认付费模式，再找 3–5 个潜在付费用户访谈。理论上的盈利空间不等于已验证收入。",
+      "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
+      "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
+      "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
+    }
+  ],
+  "stats": {
+    "last_ok": "2026-11-15 08:00",
+    "success_rate": 1.0,
+    "runs_total": 36,
+    "hot_count": 10,
+    "opp_count": 5
+  },
+  "sources": [
+    {
+      "name": "github_stars_velocity",
+      "display_name": "GitHub Star 增速",
+      "url": "https://github.com/trending",
+      "status": "ok",
+      "last_success_at": "2026-11-14T23:59:32.580783+00:00",
+      "items_collected": 159,
+      "last_error": null
+    },
+    {
+      "name": "github_trending",
+      "display_name": "GitHub Trending",
+      "url": "https://github.com/trending",
+      "status": "ok",
+      "last_success_at": "2026-11-14T23:59:25.955118+00:00",
+      "items_collected": 130,
+      "last_error": null
+    },
+    {
+      "name": "github_trending_lang",
+      "display_name": "GitHub Trending 分语言",
+      "url": "https://github.com/trending",
+      "status": "ok",
+      "last_success_at": "2026-11-14T23:59:37.241036+00:00",
+      "items_collected": 309,
+      "last_error": null
+    },
+    {
+      "name": "deepmind",
+      "display_name": "Google DeepMind",
+      "url": "https://deepmind.google/",
+      "status": "ok",
+      "last_success_at": "2026-11-15T00:00:27.152944+00:00",
+      "items_collected": 31,
+      "last_error": null
+    },
+    {
+      "name": "google_trends",
+      "display_name": "Google Trends",
+      "url": "https://trends.google.com/trends/",
+      "status": "ok",
+      "last_success_at": "2026-11-15T00:00:28.700973+00:00",
+      "items_collected": 347,
+      "last_error": null
+    },
+    {
+      "name": "hackernews",
+      "display_name": "Hacker News",
+      "url": "https://news.ycombinator.com/",
+      "status": "ok",
+      "last_success_at": "2026-11-15T00:00:11.971834+00:00",
+      "items_collected": 937,
+      "last_error": null
+    },
+    {
+      "name": "hf_blog",
+      "display_name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog",
+      "status": "ok",
+      "last_success_at": "2026-11-15T00:00:17.764884+00:00",
+      "items_collected": 69,
+      "last_error": null
+    },
+    {
+      "name": "openai_news",
+      "display_name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "status": "ok",
+      "last_success_at": "2026-11-15T00:00:16.013628+00:00",
+      "items_collected": 115,
+      "last_error": null
+    },
+    {
+      "name": "producthunt",
+      "display_name": "Product Hunt",
+      "url": "https://www.producthunt.com/",
+      "status": "ok",
+      "last_success_at": "2026-11-15T00:00:13.936574+00:00",
+      "items_collected": 639,
+      "last_error": null
+    },
+    {
+      "name": "reuters",
+      "display_name": "Reuters",
+      "url": "https://www.reuters.com/",
+      "status": "degraded",
+      "last_success_at": null,
+      "items_collected": 0,
+      "last_error": null
+    },
+    {
+      "name": "sec_edgar",
+      "display_name": "SEC EDGAR",
+      "url": "https://www.sec.gov/edgar/search/",
+      "status": "ok",
+      "last_success_at": "2026-11-15T00:00:25.448467+00:00",
+      "items_collected": 880,
+      "last_error": null
+    },
+    {
+      "name": "techcrunch",
+      "display_name": "TechCrunch",
+      "url": "https://techcrunch.com/",
+      "status": "ok",
+      "last_success_at": "2026-11-15T00:00:19.447350+00:00",
+      "items_collected": 484,
+      "last_error": null
+    }
+  ],
+  "runs": [
+    {
+      "started_at": "2026-11-15 07:59",
+      "status": "success",
+      "new_items": 113,
+      "deduped_count": 154,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-11-14 07:59",
+      "status": "success",
+      "new_items": 153,
+      "deduped_count": 114,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-11-13 08:01",
+      "status": "success",
+      "new_items": 167,
+      "deduped_count": 97,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-11-12 07:59",
+      "status": "success",
+      "new_items": 114,
+      "deduped_count": 148,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-11-11 07:59",
+      "status": "success",
+      "new_items": 165,
+      "deduped_count": 101,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-11-10 07:59",
+      "status": "success",
+      "new_items": 149,
+      "deduped_count": 120,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-11-09 07:59",
+      "status": "success",
+      "new_items": 99,
+      "deduped_count": 171,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-11-08 07:59",
+      "status": "success",
+      "new_items": 122,
+      "deduped_count": 151,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-11-07 07:59",
+      "status": "success",
+      "new_items": 163,
+      "deduped_count": 104,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-11-06 07:59",
+      "status": "success",
+      "new_items": 156,
+      "deduped_count": 114,
+      "failed_sources": []
+    }
+  ]
+}
