@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-17T00:01:51.009910+00:00",
+  "generated_at": "2026-11-17T03:09:30.264322+00:00",
   "date": "2026-11-17",
   "hot": [
     {
-      "title_cn": null,
+      "title_cn": "卡内基梅隆大学正在YouTube上免费提供计算机科学课程",
       "title_orig": "Carnegie Mellon is putting computer science courses on YouTube for free",
       "summary_cn": null,
       "url": "https://www.cs.cmu.edu/learn/",
@@ -29,7 +29,7 @@
       "next_action": null
     },
     {
-      "title_cn": null,
+      "title_cn": "BugMeNot 已关闭",
       "title_orig": "BugMeNot has closed",
       "summary_cn": null,
       "url": "https://www.bugmenot.com/",
@@ -55,7 +55,7 @@
       "next_action": null
     },
     {
-      "title_cn": null,
+      "title_cn": "全球知名品牌通过 Optimizely 感染恶意软件",
       "title_orig": "World's Largest Brands Infected With Malware Via Optimizely",
       "summary_cn": null,
       "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
@@ -81,7 +81,7 @@
       "next_action": null
     },
     {
-      "title_cn": null,
+      "title_cn": "OpenCode 浏览",
       "title_orig": "OpenCode Browse",
       "summary_cn": null,
       "url": "https://opencode.ai/product/browse",
@@ -107,7 +107,7 @@
       "next_action": null
     },
     {
-      "title_cn": null,
+      "title_cn": "Rust改变了我作为开发人员的身份",
       "title_orig": "Rust changed me as a developer",
       "summary_cn": null,
       "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
@@ -133,7 +133,7 @@
       "next_action": null
     },
     {
-      "title_cn": null,
+      "title_cn": "摩根大通的技术问题导致美国银行的网上银行服务出现延迟",
       "title_orig": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
       "summary_cn": null,
       "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
@@ -159,7 +159,7 @@
       "next_action": null
     },
     {
-      "title_cn": null,
+      "title_cn": "美国联合航空公司表示，该公司正遭遇大规模系统故障",
       "title_orig": "United Airlines experiencing a widespread system outage, airline says",
       "summary_cn": null,
       "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
@@ -185,7 +185,7 @@
       "next_action": null
     },
     {
-      "title_cn": null,
+      "title_cn": "我力求让原生 Three.js 的质量媲美 3A 游戏引擎",
       "title_orig": "My Quest to push native Three.js quality match AAA Game Engines",
       "summary_cn": null,
       "url": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
@@ -211,7 +211,7 @@
       "next_action": null
     },
     {
-      "title_cn": null,
+      "title_cn": "Spamhaus 11月新版发件人要求",
       "title_orig": "Spamhaus new email sender requirements in November",
       "summary_cn": null,
       "url": "https://www.spamhaus.org/sender-guidelines/",
@@ -237,7 +237,7 @@
       "next_action": null
     },
     {
-      "title_cn": null,
+      "title_cn": "化学实际上是几何学",
       "title_orig": "Chemistry is Actually Geometry",
       "summary_cn": null,
       "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
@@ -401,9 +401,9 @@
     }
   ],
   "stats": {
-    "last_ok": "2026-11-17 08:00",
+    "last_ok": "2026-11-17 11:08",
     "success_rate": 1.0,
-    "runs_total": 38,
+    "runs_total": 39,
     "hot_count": 10,
     "opp_count": 5
   },
@@ -413,8 +413,8 @@
       "display_name": "GitHub Star 增速",
       "url": "https://github.com/trending",
       "status": "ok",
-      "last_success_at": "2026-11-16T23:59:34.628249+00:00",
-      "items_collected": 176,
+      "last_success_at": "2026-11-17T03:07:46.610580+00:00",
+      "items_collected": 179,
       "last_error": null
     },
     {
@@ -422,7 +422,7 @@
       "display_name": "GitHub Trending",
       "url": "https://github.com/trending",
       "status": "ok",
-      "last_success_at": "2026-11-16T23:59:27.099515+00:00",
+      "last_success_at": "2026-11-17T03:07:39.377240+00:00",
       "items_collected": 134,
       "last_error": null
     },
@@ -431,7 +431,7 @@
       "display_name": "GitHub Trending 分语言",
       "url": "https://github.com/trending",
       "status": "ok",
-      "last_success_at": "2026-11-16T23:59:38.538613+00:00",
+      "last_success_at": "2026-11-17T03:07:51.376455+00:00",
       "items_collected": 333,
       "last_error": null
     },
@@ -440,7 +440,7 @@
       "display_name": "Google DeepMind",
       "url": "https://deepmind.google/",
       "status": "ok",
-      "last_success_at": "2026-11-17T00:00:50.878399+00:00",
+      "last_success_at": "2026-11-17T03:08:46.859565+00:00",
       "items_collected": 31,
       "last_error": null
     },
@@ -449,8 +449,8 @@
       "display_name": "Google Trends",
       "url": "https://trends.google.com/trends/",
       "status": "ok",
-      "last_success_at": "2026-11-17T00:00:52.473558+00:00",
-      "items_collected": 367,
+      "last_success_at": "2026-11-17T03:08:48.513953+00:00",
+      "items_collected": 377,
       "last_error": null
     },
     {
@@ -458,8 +458,8 @@
       "display_name": "Hacker News",
       "url": "https://news.ycombinator.com/",
       "status": "ok",
-      "last_success_at": "2026-11-17T00:00:13.490606+00:00",
-      "items_collected": 996,
+      "last_success_at": "2026-11-17T03:08:29.252993+00:00",
+      "items_collected": 1005,
       "last_error": null
     },
     {
@@ -467,7 +467,7 @@
       "display_name": "Hugging Face Blog",
       "url": "https://huggingface.co/blog",
       "status": "ok",
-      "last_success_at": "2026-11-17T00:00:18.942702+00:00",
+      "last_success_at": "2026-11-17T03:08:34.498508+00:00",
       "items_collected": 70,
       "last_error": null
     },
@@ -476,7 +476,7 @@
       "display_name": "OpenAI News",
       "url": "https://openai.com/news/",
       "status": "ok",
-      "last_success_at": "2026-11-17T00:00:16.776497+00:00",
+      "last_success_at": "2026-11-17T03:08:32.459005+00:00",
       "items_collected": 126,
       "last_error": null
     },
@@ -484,10 +484,10 @@
       "name": "producthunt",
       "display_name": "Product Hunt",
       "url": "https://www.producthunt.com/",
-      "status": "ok",
+      "status": "failed",
       "last_success_at": "2026-11-17T00:00:14.789141+00:00",
       "items_collected": 679,
-      "last_error": null
+      "last_error": "Client error '403 Forbidden' for url 'https://api.producthunt.com/v2/api/graphql'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
     },
     {
       "name": "reuters",
@@ -503,7 +503,7 @@
       "display_name": "SEC EDGAR",
       "url": "https://www.sec.gov/edgar/search/",
       "status": "ok",
-      "last_success_at": "2026-11-17T00:00:48.803312+00:00",
+      "last_success_at": "2026-11-17T03:08:44.867621+00:00",
       "items_collected": 920,
       "last_error": null
     },
@@ -512,12 +512,21 @@
       "display_name": "TechCrunch",
       "url": "https://techcrunch.com/",
       "status": "ok",
-      "last_success_at": "2026-11-17T00:00:20.890801+00:00",
+      "last_success_at": "2026-11-17T03:08:36.186197+00:00",
       "items_collected": 511,
       "last_error": null
     }
   ],
   "runs": [
+    {
+      "started_at": "2026-11-17 11:07",
+      "status": "partial",
+      "new_items": 28,
+      "deduped_count": 217,
+      "failed_sources": [
+        "producthunt"
+      ]
+    },
     {
       "started_at": "2026-11-17 07:59",
       "status": "success",
@@ -579,13 +588,6 @@
       "status": "success",
       "new_items": 99,
       "deduped_count": 171,
-      "failed_sources": []
-    },
-    {
-      "started_at": "2026-11-08 07:59",
-      "status": "success",
-      "new_items": 122,
-      "deduped_count": 151,
       "failed_sources": []
     }
   ]
