@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-16T00:02:07.469895+00:00",
-  "date": "2026-11-16",
+  "generated_at": "2026-11-17T00:01:51.009910+00:00",
+  "date": "2026-11-17",
   "hot": [
     {
-      "title_cn": "旧的 Bitly 链接正被劫持",
-      "title_orig": "Old Bitly Links Are Being Hijacked",
+      "title_cn": null,
+      "title_orig": "Carnegie Mellon is putting computer science courses on YouTube for free",
       "summary_cn": null,
-      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "url": "https://www.cs.cmu.edu/learn/",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-16 06:11",
+      "published_at": "2026-11-17 04:43",
       "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
@@ -20,7 +20,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 104 赞/54 评论；1.8 小时前；1 个独立信源",
+      "note": "HN 452 赞/82 评论；3.3 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -29,14 +29,14 @@
       "next_action": null
     },
     {
-      "title_cn": "Protomaps：自托管地图图块变得廉价且简单",
-      "title_orig": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "title_cn": null,
+      "title_orig": "BugMeNot has closed",
       "summary_cn": null,
-      "url": "https://bruceroettgers.eu/blog/protomaps/",
+      "url": "https://www.bugmenot.com/",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-16 03:26",
+      "published_at": "2026-11-17 05:32",
       "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
@@ -46,7 +46,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 113 赞/31 评论；4.6 小时前；1 个独立信源",
+      "note": "HN 228 赞/112 评论；2.5 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -55,14 +55,14 @@
       "next_action": null
     },
     {
-      "title_cn": "关于厄尔尼诺现象运作方式的简短说明[视频]",
-      "title_orig": "A short explainer on how El Niño works [video]",
+      "title_cn": null,
+      "title_orig": "World's Largest Brands Infected With Malware Via Optimizely",
       "summary_cn": null,
-      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-16 02:23",
+      "published_at": "2026-11-17 05:08",
       "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
@@ -72,7 +72,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 152 赞/57 评论；5.6 小时前；1 个独立信源",
+      "note": "HN 98 赞/16 评论；2.9 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -81,14 +81,14 @@
       "next_action": null
     },
     {
-      "title_cn": "手写体作为字体",
-      "title_orig": "Handwriting, as a Font",
+      "title_cn": null,
+      "title_orig": "OpenCode Browse",
       "summary_cn": null,
-      "url": "https://ductus.sorenblank.com",
+      "url": "https://opencode.ai/product/browse",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-16 03:42",
+      "published_at": "2026-11-17 05:20",
       "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
@@ -98,7 +98,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 89 赞/20 评论；4.3 小时前；1 个独立信源",
+      "note": "HN 69 赞/35 评论；2.7 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -107,14 +107,14 @@
       "next_action": null
     },
     {
-      "title_cn": "Microsoft 365 服务中断导致 15 名酒店住客氯气中毒",
-      "title_orig": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "title_cn": null,
+      "title_orig": "Rust changed me as a developer",
       "summary_cn": null,
-      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+      "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-16 02:36",
+      "published_at": "2026-11-17 04:16",
       "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
@@ -124,7 +124,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 333 赞/162 评论；5.4 小时前；1 个独立信源",
+      "note": "HN 157 赞/91 评论；3.7 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -133,14 +133,40 @@
       "next_action": null
     },
     {
-      "title_cn": "您的代理人将选择可破解的选项",
-      "title_orig": "Your Agent Will Pick the Hackable One",
+      "title_cn": null,
+      "title_orig": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
       "summary_cn": null,
-      "url": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
+      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-17 02:31",
+      "score": 73.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 689 赞/550 评论；5.5 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": null,
+      "title_orig": "United Airlines experiencing a widespread system outage, airline says",
+      "summary_cn": null,
+      "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "AI",
-      "published_at": "2026-11-16 05:10",
+      "published_at": "2026-11-17 06:14",
       "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
@@ -150,7 +176,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 70 赞/40 评论；2.8 小时前；1 个独立信源",
+      "note": "HN 133 赞/55 评论；1.8 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -160,13 +186,13 @@
     },
     {
       "title_cn": null,
-      "title_orig": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
+      "title_orig": "My Quest to push native Three.js quality match AAA Game Engines",
       "summary_cn": null,
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+      "url": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-16 04:37",
+      "published_at": "2026-11-17 05:07",
       "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
@@ -176,7 +202,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 91 赞/43 评论；3.4 小时前；1 个独立信源",
+      "note": "HN 77 赞/24 评论；2.9 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -186,13 +212,13 @@
     },
     {
       "title_cn": null,
-      "title_orig": "Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence",
+      "title_orig": "Spamhaus new email sender requirements in November",
       "summary_cn": null,
-      "url": "https://news.ycombinator.com/item?id=50510042",
+      "url": "https://www.spamhaus.org/sender-guidelines/",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-16 03:49",
+      "published_at": "2026-11-17 05:47",
       "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
@@ -202,7 +228,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 99 赞/34 评论；4.2 小时前；1 个独立信源",
+      "note": "HN 56 赞/46 评论；2.2 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -211,50 +237,24 @@
       "next_action": null
     },
     {
-      "title_cn": "Eclipse Mosquitto – 一款开源MQTT代理",
-      "title_orig": "Eclipse Mosquitto – An open source MQTT broker",
+      "title_cn": null,
+      "title_orig": "Chemistry is Actually Geometry",
       "summary_cn": null,
-      "url": "https://github.com/eclipse-mosquitto/mosquitto",
+      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-16 02:36",
-      "score": 72.2,
+      "published_at": "2026-11-17 04:22",
+      "score": 71.8,
       "confidence": "实际热度",
       "reasons": {
-        "互动数据": 29.2,
+        "互动数据": 28.8,
         "时效性": 25.0,
         "独立信源": 6.0,
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 57 赞/21 评论；5.4 小时前；1 个独立信源",
-      "opp_type": null,
-      "cost_range": null,
-      "monetization": null,
-      "mvp_plan": null,
-      "risks": null,
-      "next_action": null
-    },
-    {
-      "title_cn": "黄仁勋或将重返英伟达担任首席执行官",
-      "title_orig": "Jensen Huang might return to Nvidia as CEO",
-      "summary_cn": null,
-      "url": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
-      "source": "hackernews",
-      "source_display": "Hacker News",
-      "category": "科技",
-      "published_at": "2026-11-16 07:24",
-      "score": 70.7,
-      "confidence": "实际热度",
-      "reasons": {
-        "互动数据": 27.7,
-        "时效性": 25.0,
-        "独立信源": 6.0,
-        "信源可靠性": 12.0,
-        "趋势增长": 0.0
-      },
-      "note": "HN 43 赞/20 评论；0.6 小时前；1 个独立信源",
+      "note": "HN 64 赞/14 评论；3.6 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -401,9 +401,9 @@
     }
   ],
   "stats": {
-    "last_ok": "2026-11-16 08:00",
+    "last_ok": "2026-11-17 08:00",
     "success_rate": 1.0,
-    "runs_total": 37,
+    "runs_total": 38,
     "hot_count": 10,
     "opp_count": 5
   },
@@ -413,8 +413,8 @@
       "display_name": "GitHub Star 增速",
       "url": "https://github.com/trending",
       "status": "ok",
-      "last_success_at": "2026-11-15T23:59:52.646461+00:00",
-      "items_collected": 170,
+      "last_success_at": "2026-11-16T23:59:34.628249+00:00",
+      "items_collected": 176,
       "last_error": null
     },
     {
@@ -422,8 +422,8 @@
       "display_name": "GitHub Trending",
       "url": "https://github.com/trending",
       "status": "ok",
-      "last_success_at": "2026-11-15T23:59:45.397363+00:00",
-      "items_collected": 133,
+      "last_success_at": "2026-11-16T23:59:27.099515+00:00",
+      "items_collected": 134,
       "last_error": null
     },
     {
@@ -431,8 +431,8 @@
       "display_name": "GitHub Trending 分语言",
       "url": "https://github.com/trending",
       "status": "ok",
-      "last_success_at": "2026-11-15T23:59:57.041089+00:00",
-      "items_collected": 322,
+      "last_success_at": "2026-11-16T23:59:38.538613+00:00",
+      "items_collected": 333,
       "last_error": null
     },
     {
@@ -440,7 +440,7 @@
       "display_name": "Google DeepMind",
       "url": "https://deepmind.google/",
       "status": "ok",
-      "last_success_at": "2026-11-16T00:00:48.343325+00:00",
+      "last_success_at": "2026-11-17T00:00:50.878399+00:00",
       "items_collected": 31,
       "last_error": null
     },
@@ -449,8 +449,8 @@
       "display_name": "Google Trends",
       "url": "https://trends.google.com/trends/",
       "status": "ok",
-      "last_success_at": "2026-11-16T00:00:50.043333+00:00",
-      "items_collected": 357,
+      "last_success_at": "2026-11-17T00:00:52.473558+00:00",
+      "items_collected": 367,
       "last_error": null
     },
     {
@@ -458,8 +458,8 @@
       "display_name": "Hacker News",
       "url": "https://news.ycombinator.com/",
       "status": "ok",
-      "last_success_at": "2026-11-16T00:00:32.151740+00:00",
-      "items_collected": 967,
+      "last_success_at": "2026-11-17T00:00:13.490606+00:00",
+      "items_collected": 996,
       "last_error": null
     },
     {
@@ -467,8 +467,8 @@
       "display_name": "Hugging Face Blog",
       "url": "https://huggingface.co/blog",
       "status": "ok",
-      "last_success_at": "2026-11-16T00:00:40.289057+00:00",
-      "items_collected": 69,
+      "last_success_at": "2026-11-17T00:00:18.942702+00:00",
+      "items_collected": 70,
       "last_error": null
     },
     {
@@ -476,8 +476,8 @@
       "display_name": "OpenAI News",
       "url": "https://openai.com/news/",
       "status": "ok",
-      "last_success_at": "2026-11-16T00:00:38.335949+00:00",
-      "items_collected": 117,
+      "last_success_at": "2026-11-17T00:00:16.776497+00:00",
+      "items_collected": 126,
       "last_error": null
     },
     {
@@ -485,8 +485,8 @@
       "display_name": "Product Hunt",
       "url": "https://www.producthunt.com/",
       "status": "ok",
-      "last_success_at": "2026-11-16T00:00:36.417856+00:00",
-      "items_collected": 659,
+      "last_success_at": "2026-11-17T00:00:14.789141+00:00",
+      "items_collected": 679,
       "last_error": null
     },
     {
@@ -503,8 +503,8 @@
       "display_name": "SEC EDGAR",
       "url": "https://www.sec.gov/edgar/search/",
       "status": "ok",
-      "last_success_at": "2026-11-16T00:00:46.599254+00:00",
-      "items_collected": 880,
+      "last_success_at": "2026-11-17T00:00:48.803312+00:00",
+      "items_collected": 920,
       "last_error": null
     },
     {
@@ -512,12 +512,19 @@
       "display_name": "TechCrunch",
       "url": "https://techcrunch.com/",
       "status": "ok",
-      "last_success_at": "2026-11-16T00:00:42.143722+00:00",
-      "items_collected": 491,
+      "last_success_at": "2026-11-17T00:00:20.890801+00:00",
+      "items_collected": 511,
       "last_error": null
     }
   ],
   "runs": [
+    {
+      "started_at": "2026-11-17 07:59",
+      "status": "success",
+      "new_items": 167,
+      "deduped_count": 98,
+      "failed_sources": []
+    },
     {
       "started_at": "2026-11-16 07:59",
       "status": "success",
@@ -579,13 +586,6 @@
       "status": "success",
       "new_items": 122,
       "deduped_count": 151,
-      "failed_sources": []
-    },
-    {
-      "started_at": "2026-11-07 07:59",
-      "status": "success",
-      "new_items": 163,
-      "deduped_count": 104,
       "failed_sources": []
     }
   ]
