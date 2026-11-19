@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-19T00:04:34.872544+00:00",
+  "generated_at": "2026-11-19T09:41:21.978479+00:00",
   "date": "2026-11-19",
   "hot": [
     {
-      "title_cn": null,
+      "title_cn": "DaisyRose-27B：1200 个任务的强化学习将 Qwen3.8 在 Terminal-Bench 4.1 上的得分从 5.6% 提升至 12%",
       "title_orig": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
       "summary_cn": null,
       "url": "https://www.radixark.com/blog/daisyrose-27b",
@@ -29,7 +29,7 @@
       "next_action": null
     },
     {
-      "title_cn": null,
+      "title_cn": "Gemini 4 霓虹色",
       "title_orig": "Gemini 4 Neon",
       "summary_cn": null,
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
@@ -55,7 +55,7 @@
       "next_action": null
     },
     {
-      "title_cn": null,
+      "title_cn": "Genie 4现已上市",
       "title_orig": "Genie 4 is now available",
       "summary_cn": null,
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
@@ -81,7 +81,7 @@
       "next_action": null
     },
     {
-      "title_cn": null,
+      "title_cn": "偏函数应用的魔力",
       "title_orig": "The Magic of Partial Evaluation",
       "summary_cn": null,
       "url": "https://jimmyhmiller.com/magic-of-partial-evaluation",
@@ -107,7 +107,7 @@
       "next_action": null
     },
     {
-      "title_cn": null,
+      "title_cn": "Search Browser – 支持 Chrome 扩展的极简 WebKit 浏览器",
       "title_orig": "Search Browser – Minimalist WebKit browser with Chrome extension support",
       "summary_cn": null,
       "url": "https://searchbrowser.app/",
@@ -133,7 +133,7 @@
       "next_action": null
     },
     {
-      "title_cn": null,
+      "title_cn": "Nginx 中存在未经验证的远程代码执行漏洞",
       "title_orig": "Unauthenticated remote code execution in Nginx",
       "summary_cn": null,
       "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
@@ -159,7 +159,7 @@
       "next_action": null
     },
     {
-      "title_cn": null,
+      "title_cn": "七款新机型，具备可扩展的性价比",
       "title_orig": "Seven new models at scalable price-performance",
       "summary_cn": null,
       "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
@@ -185,7 +185,7 @@
       "next_action": null
     },
     {
-      "title_cn": null,
+      "title_cn": "德意志银行内部",
       "title_orig": "Inside Deutsche Bank",
       "summary_cn": null,
       "url": "https://www.inside-db.com/",
@@ -211,7 +211,7 @@
       "next_action": null
     },
     {
-      "title_cn": null,
+      "title_cn": "在审计测试中，人工智能代理提出的问题比毕马威会计师提出的问题更好",
       "title_orig": "AI agents ask better questions than KPMG accountants in audit trial",
       "summary_cn": null,
       "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
@@ -237,7 +237,7 @@
       "next_action": null
     },
     {
-      "title_cn": null,
+      "title_cn": "DNS 解析器不是打击盗版的正确场所",
       "title_orig": "DNS resolvers are the wrong place to fight piracy",
       "summary_cn": null,
       "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
@@ -373,9 +373,9 @@
       "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
     },
     {
-      "title_cn": null,
+      "title_cn": "Filament by Galaxy：使用您的终端或代理移动数据。快速且开源。",
       "title_orig": "Filament by Galaxy: Move data using your terminal or agent. Fast & open source.",
-      "summary_cn": null,
+      "summary_cn": "Filament 是一款用 Go 语言编写的数据复制引擎。它支持全量加载、增量复制和变更数据捕获 (CDC)。当数据在引擎中移动时，Filament会验证Arrow批次。",
       "url": "https://www.producthunt.com/r/2VIY3N6BRL2YSZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+AI+Opportunity+Radar+%28ID%3A+308519%29",
       "source": "producthunt",
       "source_display": "Product Hunt",
