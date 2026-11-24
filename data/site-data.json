@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-23T00:01:29.781318+00:00",
-  "date": "2026-11-23",
+  "generated_at": "2026-11-24T00:01:22.451976+00:00",
+  "date": "2026-11-24",
   "hot": [
     {
-      "title_cn": "Alessandro Masullo手稿的Lean形式化进度图",
-      "title_orig": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+      "title_cn": "Stalwart 现在可以完全替代 Microsoft Exchange",
+      "title_orig": "Stalwart is now a drop-in replacement for Microsoft Exchange",
       "summary_cn": null,
-      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-23 07:12",
+      "published_at": "2026-11-24 06:32",
       "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
@@ -20,7 +20,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 72 赞/21 评论；0.8 小时前；1 个独立信源",
+      "note": "HN 96 赞/56 评论；1.5 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -29,14 +29,14 @@
       "next_action": null
     },
     {
-      "title_cn": "《GTA 6》的鸟类：罪恶都市和莱昂尼达的野生动物野外指南",
-      "title_orig": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "title_cn": "VP ≠ VNP（适用于所有领域）",
+      "title_orig": "VP ≠ VNP over Every Field",
       "summary_cn": null,
-      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-23 03:10",
+      "published_at": "2026-11-24 06:09",
       "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
@@ -46,59 +46,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 300 赞/123 评论；4.8 小时前；1 个独立信源",
-      "opp_type": "创业",
-      "cost_range": "预估 ¥0–2,000（主要是个人时间成本；域名/服务器等小额支出）",
-      "monetization": "变现路径待验证：建议先阅读原文确认付费模式，再找 3–5 个潜在付费用户访谈。理论上的盈利空间不等于已验证收入。",
-      "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
-      "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
-      "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
-    },
-    {
-      "title_cn": "Inkling、Qwen 和 Unsloth 本地 AI 新手指南",
-      "title_orig": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "summary_cn": null,
-      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "source": "hackernews",
-      "source_display": "Hacker News",
-      "category": "AI",
-      "published_at": "2026-11-23 05:01",
-      "score": 73.0,
-      "confidence": "实际热度",
-      "reasons": {
-        "互动数据": 30.0,
-        "时效性": 25.0,
-        "独立信源": 6.0,
-        "信源可靠性": 12.0,
-        "趋势增长": 0.0
-      },
-      "note": "HN 135 赞/47 评论；3.0 小时前；1 个独立信源",
-      "opp_type": "AI",
-      "cost_range": "预估 ¥0–2,000（主要是个人时间成本；域名/服务器等小额支出）",
-      "monetization": "变现路径待验证：建议先阅读原文确认付费模式，再找 3–5 个潜在付费用户访谈。理论上的盈利空间不等于已验证收入。",
-      "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
-      "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
-      "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
-    },
-    {
-      "title_cn": "一座有真实巴士、飞机和船只的袖珍旧金山",
-      "title_orig": "A miniature San Francisco with live buses, planes and boats",
-      "summary_cn": null,
-      "url": "https://smallsf.com/",
-      "source": "hackernews",
-      "source_display": "Hacker News",
-      "category": "科技",
-      "published_at": "2026-11-23 04:33",
-      "score": 73.0,
-      "confidence": "实际热度",
-      "reasons": {
-        "互动数据": 30.0,
-        "时效性": 25.0,
-        "独立信源": 6.0,
-        "信源可靠性": 12.0,
-        "趋势增长": 0.0
-      },
-      "note": "HN 100 赞/39 评论；3.5 小时前；1 个独立信源",
+      "note": "HN 158 赞/110 评论；1.9 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -107,14 +55,14 @@
       "next_action": null
     },
     {
-      "title_cn": "硅谷怎么了？",
-      "title_orig": "What Happened to Silicon Valley?",
+      "title_cn": "应Arm的要求，本网站将于2026年12月4日停用 :(",
+      "title_orig": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
       "summary_cn": null,
-      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+      "url": "https://arm.jonpalmisc.com/",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-23 03:20",
+      "published_at": "2026-11-24 03:17",
       "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
@@ -124,7 +72,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 344 赞/192 评论；4.7 小时前；1 个独立信源",
+      "note": "HN 784 赞/160 评论；4.7 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -133,14 +81,14 @@
       "next_action": null
     },
     {
-      "title_cn": "试图解决 P 对比 NP 问题的代理集群",
-      "title_orig": "Agent swarm trying to solve P vs. NP",
+      "title_cn": "勒文特·阿尔珀格（Levent Alpöge）就其黎曼猜想证明发表评论",
+      "title_orig": "Levent Alpöge comments on his Riemann Hypothesis proof",
       "summary_cn": null,
-      "url": "https://pequalnp.com/",
+      "url": "https://twitter.com/__alpoge__/status/2124987173439209561",
       "source": "hackernews",
       "source_display": "Hacker News",
-      "category": "AI",
-      "published_at": "2026-11-23 05:53",
+      "category": "科技",
+      "published_at": "2026-11-24 06:22",
       "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
@@ -150,7 +98,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 61 赞/62 评论；2.1 小时前；1 个独立信源",
+      "note": "HN 54 赞/43 评论；1.6 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -159,14 +107,14 @@
       "next_action": null
     },
     {
-      "title_cn": "由于自动化系统出现故障，所有经停亚特兰大的达美航空航班均出现延误",
-      "title_orig": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
+      "title_cn": "马匹成就了国家",
+      "title_orig": "The horse made the state",
       "summary_cn": null,
-      "url": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
+      "url": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-23 03:51",
+      "published_at": "2026-11-24 04:59",
       "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
@@ -176,7 +124,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 83 赞/33 评论；4.2 小时前；1 个独立信源",
+      "note": "HN 51 赞/48 评论；3.0 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -185,24 +133,24 @@
       "next_action": null
     },
     {
-      "title_cn": "Nyx，历史最悠久的互联网服务提供商",
-      "title_orig": "Nyx, the Oldest Internet Service Provider",
+      "title_cn": "苹果在9年后将我的开源应用从欧盟App Store中下架",
+      "title_orig": "Apple removed my open-source app from EU App Stores after 9 years",
       "summary_cn": null,
-      "url": "https://nyx.net/",
+      "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-23 04:15",
-      "score": 71.2,
+      "published_at": "2026-11-24 02:48",
+      "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
-        "互动数据": 28.2,
+        "互动数据": 30.0,
         "时效性": 25.0,
         "独立信源": 6.0,
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 73 赞/8 评论；3.7 小时前；1 个独立信源",
+      "note": "HN 466 赞/99 评论；5.2 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -211,14 +159,66 @@
       "next_action": null
     },
     {
-      "title_cn": "困惑度和智能",
-      "title_orig": "Perplexity and Intelligence",
+      "title_cn": "GPUI 将拥有自己的代码仓库",
+      "title_orig": "GPUI is getting its own repository",
       "summary_cn": null,
-      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "url": "https://github.com/zed-industries/gpui",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-23 01:06",
+      "published_at": "2026-11-24 04:52",
+      "score": 72.8,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 29.8,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 75 赞/15 评论；3.1 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": "Bored.com：无聊时可以探索的有趣、有意思和酷炫的网站",
+      "title_orig": "Bored.com: Fun, interesting and cool websites to explore when bored",
+      "summary_cn": null,
+      "url": "https://www.bored.com/",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-24 05:01",
+      "score": 72.5,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 29.5,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 65 赞/18 评论；3.0 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": "英伟达恢复黄仁勋的首席执行官职务",
+      "title_orig": "Nvidia Reinstates Jensen Huang as CEO",
+      "summary_cn": null,
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-23 22:00",
       "score": 68.0,
       "confidence": "实际热度",
       "reasons": {
@@ -228,7 +228,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 447 赞/302 评论；6.9 小时前；1 个独立信源",
+      "note": "HN 1941 赞/3030 评论；10.0 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -237,14 +237,14 @@
       "next_action": null
     },
     {
-      "title_cn": "Show HN：我开发了一款游戏，在游戏中您是LLM的子代理",
-      "title_orig": "Show HN: I built a game where you are an LLM's subagent",
+      "title_cn": "Ladybird现处于alpha阶段",
+      "title_orig": "Ladybird is now in alpha",
       "summary_cn": null,
-      "url": "https://github.com/gulivan/worker755",
+      "url": "https://ladybird.org/posts/alpha/",
       "source": "hackernews",
       "source_display": "Hacker News",
-      "category": "AI",
-      "published_at": "2026-11-22 21:56",
+      "category": "科技",
+      "published_at": "2026-11-24 00:13",
       "score": 68.0,
       "confidence": "实际热度",
       "reasons": {
@@ -254,7 +254,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 261 赞/59 评论；10.1 小时前；1 个独立信源",
+      "note": "HN 1306 赞/312 评论；7.8 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -401,9 +401,9 @@
     }
   ],
   "stats": {
-    "last_ok": "2026-11-23 08:00",
+    "last_ok": "2026-11-24 08:00",
     "success_rate": 1.0,
-    "runs_total": 45,
+    "runs_total": 46,
     "hot_count": 10,
     "opp_count": 5
   },
@@ -413,8 +413,8 @@
       "display_name": "GitHub Star 增速",
       "url": "https://github.com/trending",
       "status": "ok",
-      "last_success_at": "2026-11-22T23:59:34.456836+00:00",
-      "items_collected": 197,
+      "last_success_at": "2026-11-23T23:59:35.396723+00:00",
+      "items_collected": 200,
       "last_error": null
     },
     {
@@ -422,7 +422,7 @@
       "display_name": "GitHub Trending",
       "url": "https://github.com/trending",
       "status": "ok",
-      "last_success_at": "2026-11-22T23:59:27.917867+00:00",
+      "last_success_at": "2026-11-23T23:59:28.460314+00:00",
       "items_collected": 148,
       "last_error": null
     },
@@ -431,7 +431,7 @@
       "display_name": "GitHub Trending 分语言",
       "url": "https://github.com/trending",
       "status": "ok",
-      "last_success_at": "2026-11-22T23:59:38.080847+00:00",
+      "last_success_at": "2026-11-23T23:59:39.082310+00:00",
       "items_collected": 354,
       "last_error": null
     },
@@ -440,8 +440,8 @@
       "display_name": "Google DeepMind",
       "url": "https://deepmind.google/",
       "status": "ok",
-      "last_success_at": "2026-11-23T00:00:34.205669+00:00",
-      "items_collected": 33,
+      "last_success_at": "2026-11-24T00:00:29.359303+00:00",
+      "items_collected": 34,
       "last_error": null
     },
     {
@@ -449,8 +449,8 @@
       "display_name": "Google Trends",
       "url": "https://trends.google.com/trends/",
       "status": "ok",
-      "last_success_at": "2026-11-23T00:00:35.736013+00:00",
-      "items_collected": 436,
+      "last_success_at": "2026-11-24T00:00:31.111628+00:00",
+      "items_collected": 446,
       "last_error": null
     },
     {
@@ -458,8 +458,8 @@
       "display_name": "Hacker News",
       "url": "https://news.ycombinator.com/",
       "status": "ok",
-      "last_success_at": "2026-11-23T00:00:12.489908+00:00",
-      "items_collected": 1177,
+      "last_success_at": "2026-11-24T00:00:16.620433+00:00",
+      "items_collected": 1205,
       "last_error": null
     },
     {
@@ -467,8 +467,8 @@
       "display_name": "Hugging Face Blog",
       "url": "https://huggingface.co/blog",
       "status": "ok",
-      "last_success_at": "2026-11-23T00:00:17.351589+00:00",
-      "items_collected": 77,
+      "last_success_at": "2026-11-24T00:00:22.112256+00:00",
+      "items_collected": 79,
       "last_error": null
     },
     {
@@ -476,8 +476,8 @@
       "display_name": "OpenAI News",
       "url": "https://openai.com/news/",
       "status": "ok",
-      "last_success_at": "2026-11-23T00:00:15.534761+00:00",
-      "items_collected": 148,
+      "last_success_at": "2026-11-24T00:00:20.227907+00:00",
+      "items_collected": 151,
       "last_error": null
     },
     {
@@ -485,8 +485,8 @@
       "display_name": "Product Hunt",
       "url": "https://www.producthunt.com/",
       "status": "ok",
-      "last_success_at": "2026-11-23T00:00:13.482250+00:00",
-      "items_collected": 799,
+      "last_success_at": "2026-11-24T00:00:18.070406+00:00",
+      "items_collected": 819,
       "last_error": null
     },
     {
@@ -503,8 +503,8 @@
       "display_name": "SEC EDGAR",
       "url": "https://www.sec.gov/edgar/search/",
       "status": "ok",
-      "last_success_at": "2026-11-23T00:00:32.358242+00:00",
-      "items_collected": 1080,
+      "last_success_at": "2026-11-24T00:00:27.503295+00:00",
+      "items_collected": 1120,
       "last_error": null
     },
     {
@@ -512,12 +512,19 @@
       "display_name": "TechCrunch",
       "url": "https://techcrunch.com/",
       "status": "ok",
-      "last_success_at": "2026-11-23T00:00:18.698398+00:00",
-      "items_collected": 596,
+      "last_success_at": "2026-11-24T00:00:23.928653+00:00",
+      "items_collected": 616,
       "last_error": null
     }
   ],
   "runs": [
+    {
+      "started_at": "2026-11-24 07:59",
+      "status": "success",
+      "new_items": 147,
+      "deduped_count": 123,
+      "failed_sources": []
+    },
     {
       "started_at": "2026-11-23 07:59",
       "status": "success",
@@ -580,13 +587,6 @@
       "started_at": "2026-11-16 07:59",
       "status": "success",
       "new_items": 116,
-      "deduped_count": 154,
-      "failed_sources": []
-    },
-    {
-      "started_at": "2026-11-15 07:59",
-      "status": "success",
-      "new_items": 113,
       "deduped_count": 154,
       "failed_sources": []
     }
