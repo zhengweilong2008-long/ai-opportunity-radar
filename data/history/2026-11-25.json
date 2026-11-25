@@ -1,0 +1,567 @@
+{
+  "generated_at": "2026-11-25T00:01:12.455457+00:00",
+  "date": "2026-11-25",
+  "hot": [
+    {
+      "title_cn": "三叉盆景 2.5 27B",
+      "title_orig": "Ternary Bonsai 2.5 27B",
+      "summary_cn": null,
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-25 04:08",
+      "score": 73.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 278 赞/92 评论；3.9 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": "GPT-6模型展示了内在的蛋白质设计能力",
+      "title_orig": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "summary_cn": null,
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "AI",
+      "published_at": "2026-11-25 05:02",
+      "score": 73.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 121 赞/25 评论；3.0 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": "HN发布：Versine（YC F26）——用于收发款项的MCP",
+      "title_orig": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+      "summary_cn": null,
+      "url": "https://news.ycombinator.com/item?id=50634426",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "创业",
+      "published_at": "2026-11-25 04:44",
+      "score": 73.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 55 赞/32 评论；3.3 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": "心肌梗死和中风风险可提前数十年检测到",
+      "title_orig": "Heart attack and stroke risk detectable decades in advance",
+      "summary_cn": null,
+      "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-25 05:51",
+      "score": 73.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 95 赞/35 评论；2.2 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": "中央情报局的一个非机密系统在一次网络攻击中遭到入侵",
+      "title_orig": "An unclassified CIA system was breached in a cyberattack",
+      "summary_cn": null,
+      "url": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-25 05:24",
+      "score": 73.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 82 赞/26 评论；2.6 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": "Grafana 12.4.16、13.0.14、13.1.11、13.2.7 和 13.3.2（多个 CVE）",
+      "title_orig": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
+      "summary_cn": null,
+      "url": "https://grafana.com/grafana/download",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-25 03:23",
+      "score": 73.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 117 赞/19 评论；4.6 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": "Cloudflare 掩盖了底层基础设施的缺陷",
+      "title_orig": "Cloudflare hides shortcomings of the underlying infrastructure",
+      "summary_cn": null,
+      "url": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-25 03:03",
+      "score": 73.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 142 赞/96 评论；4.9 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": "针对 Check Point 安全管理服务器的活跃入侵活动",
+      "title_orig": "Active intrusion campaign against Check Point security management servers",
+      "summary_cn": null,
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-25 00:32",
+      "score": 68.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 20.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 251 赞/115 评论；7.5 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": null,
+      "title_orig": "Jetty Pro",
+      "summary_cn": null,
+      "url": "http://hypercritical.co/2026/11/23/jetty-pro",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-25 00:23",
+      "score": 68.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 20.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 249 赞/116 评论；7.6 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": "《GTA 6》在 Windows 上运行",
+      "title_orig": "GTA 6 Running on Windows",
+      "summary_cn": null,
+      "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-24 21:19",
+      "score": 68.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 30.0,
+        "时效性": 20.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 251 赞/299 评论；10.7 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    }
+  ],
+  "opportunities": [
+    {
+      "title_cn": "《GTA 6》的鸟类：罪恶都市和莱昂尼达的野生动物野外指南",
+      "title_orig": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "summary_cn": null,
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-23 03:10",
+      "score": 64.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "真实需求证据": 20.0,
+        "变现路径清晰度": 6.0,
+        "低成本启动适配度": 16.0,
+        "趋势增长潜力": 9.0,
+        "竞争与差异化": 5.0,
+        "个人可执行性": 8.0
+      },
+      "note": "高互动（真实数据）；未提及明确付费模式；开源/个人项目属性，启动成本低；规则评分，待人工复核",
+      "opp_type": "创业",
+      "cost_range": "预估 ¥0–2,000（主要是个人时间成本；域名/服务器等小额支出）",
+      "monetization": "变现路径待验证：建议先阅读原文确认付费模式，再找 3–5 个潜在付费用户访谈。理论上的盈利空间不等于已验证收入。",
+      "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
+      "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
+      "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
+    },
+    {
+      "title_cn": "任天堂从 GitHub 上移除了 Picofly 固件 [视频]",
+      "title_orig": "Nintendo takes Picofly firmware down from GitHub [video]",
+      "summary_cn": null,
+      "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-18 22:56",
+      "score": 61.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "真实需求证据": 20.0,
+        "变现路径清晰度": 6.0,
+        "低成本启动适配度": 16.0,
+        "趋势增长潜力": 9.0,
+        "竞争与差异化": 5.0,
+        "个人可执行性": 5.0
+      },
+      "note": "高互动（真实数据）；未提及明确付费模式；开源/个人项目属性，启动成本低；规则评分，待人工复核",
+      "opp_type": "创业",
+      "cost_range": "预估 ¥0–2,000（主要是个人时间成本；域名/服务器等小额支出）",
+      "monetization": "变现路径待验证：建议先阅读原文确认付费模式，再找 3–5 个潜在付费用户访谈。理论上的盈利空间不等于已验证收入。",
+      "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
+      "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
+      "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
+    },
+    {
+      "title_cn": "巴西税务机关在 GitHub 上以 MIT 许可证开源其税务计算器",
+      "title_orig": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+      "summary_cn": null,
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-17 23:22",
+      "score": 61.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "真实需求证据": 20.0,
+        "变现路径清晰度": 6.0,
+        "低成本启动适配度": 16.0,
+        "趋势增长潜力": 9.0,
+        "竞争与差异化": 5.0,
+        "个人可执行性": 5.0
+      },
+      "note": "高互动（真实数据）；未提及明确付费模式；开源/个人项目属性，启动成本低；规则评分，待人工复核",
+      "opp_type": "创业",
+      "cost_range": "预估 ¥0–2,000（主要是个人时间成本；域名/服务器等小额支出）",
+      "monetization": "变现路径待验证：建议先阅读原文确认付费模式，再找 3–5 个潜在付费用户访谈。理论上的盈利空间不等于已验证收入。",
+      "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
+      "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
+      "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
+    },
+    {
+      "title_cn": "Inkling、Qwen 和 Unsloth 本地 AI 新手指南",
+      "title_orig": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "summary_cn": null,
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "AI",
+      "published_at": "2026-11-23 05:01",
+      "score": 61.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "真实需求证据": 14.0,
+        "变现路径清晰度": 6.0,
+        "低成本启动适配度": 16.0,
+        "趋势增长潜力": 12.0,
+        "竞争与差异化": 5.0,
+        "个人可执行性": 8.0
+      },
+      "note": "中等互动（真实数据）；未提及明确付费模式；开源/个人项目属性，启动成本低；规则评分，待人工复核",
+      "opp_type": "AI",
+      "cost_range": "预估 ¥0–2,000（主要是个人时间成本；域名/服务器等小额支出）",
+      "monetization": "变现路径待验证：建议先阅读原文确认付费模式，再找 3–5 个潜在付费用户访谈。理论上的盈利空间不等于已验证收入。",
+      "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
+      "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
+      "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
+    }
+  ],
+  "stats": {
+    "last_ok": "2026-11-25 08:00",
+    "success_rate": 1.0,
+    "runs_total": 47,
+    "hot_count": 10,
+    "opp_count": 4
+  },
+  "sources": [
+    {
+      "name": "github_stars_velocity",
+      "display_name": "GitHub Star 增速",
+      "url": "https://github.com/trending",
+      "status": "ok",
+      "last_success_at": "2026-11-24T23:59:26.155002+00:00",
+      "items_collected": 203,
+      "last_error": null
+    },
+    {
+      "name": "github_trending",
+      "display_name": "GitHub Trending",
+      "url": "https://github.com/trending",
+      "status": "ok",
+      "last_success_at": "2026-11-24T23:59:19.178831+00:00",
+      "items_collected": 148,
+      "last_error": null
+    },
+    {
+      "name": "github_trending_lang",
+      "display_name": "GitHub Trending 分语言",
+      "url": "https://github.com/trending",
+      "status": "ok",
+      "last_success_at": "2026-11-24T23:59:30.243537+00:00",
+      "items_collected": 354,
+      "last_error": null
+    },
+    {
+      "name": "deepmind",
+      "display_name": "Google DeepMind",
+      "url": "https://deepmind.google/",
+      "status": "ok",
+      "last_success_at": "2026-11-25T00:00:19.628557+00:00",
+      "items_collected": 34,
+      "last_error": null
+    },
+    {
+      "name": "google_trends",
+      "display_name": "Google Trends",
+      "url": "https://trends.google.com/trends/",
+      "status": "ok",
+      "last_success_at": "2026-11-25T00:00:21.130996+00:00",
+      "items_collected": 456,
+      "last_error": null
+    },
+    {
+      "name": "hackernews",
+      "display_name": "Hacker News",
+      "url": "https://news.ycombinator.com/",
+      "status": "ok",
+      "last_success_at": "2026-11-25T00:00:06.254207+00:00",
+      "items_collected": 1233,
+      "last_error": null
+    },
+    {
+      "name": "hf_blog",
+      "display_name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog",
+      "status": "ok",
+      "last_success_at": "2026-11-25T00:00:12.149568+00:00",
+      "items_collected": 80,
+      "last_error": null
+    },
+    {
+      "name": "openai_news",
+      "display_name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "status": "ok",
+      "last_success_at": "2026-11-25T00:00:10.218093+00:00",
+      "items_collected": 156,
+      "last_error": null
+    },
+    {
+      "name": "producthunt",
+      "display_name": "Product Hunt",
+      "url": "https://www.producthunt.com/",
+      "status": "ok",
+      "last_success_at": "2026-11-25T00:00:07.820192+00:00",
+      "items_collected": 839,
+      "last_error": null
+    },
+    {
+      "name": "reuters",
+      "display_name": "Reuters",
+      "url": "https://www.reuters.com/",
+      "status": "degraded",
+      "last_success_at": null,
+      "items_collected": 0,
+      "last_error": null
+    },
+    {
+      "name": "sec_edgar",
+      "display_name": "SEC EDGAR",
+      "url": "https://www.sec.gov/edgar/search/",
+      "status": "ok",
+      "last_success_at": "2026-11-25T00:00:18.033839+00:00",
+      "items_collected": 1160,
+      "last_error": null
+    },
+    {
+      "name": "techcrunch",
+      "display_name": "TechCrunch",
+      "url": "https://techcrunch.com/",
+      "status": "ok",
+      "last_success_at": "2026-11-25T00:00:13.822699+00:00",
+      "items_collected": 633,
+      "last_error": null
+    }
+  ],
+  "runs": [
+    {
+      "started_at": "2026-11-25 07:59",
+      "status": "success",
+      "new_items": 144,
+      "deduped_count": 126,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-11-24 07:59",
+      "status": "success",
+      "new_items": 147,
+      "deduped_count": 123,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-11-23 07:59",
+      "status": "success",
+      "new_items": 88,
+      "deduped_count": 182,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-11-22 07:59",
+      "status": "success",
+      "new_items": 85,
+      "deduped_count": 185,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-11-21 07:59",
+      "status": "success",
+      "new_items": 155,
+      "deduped_count": 116,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-11-20 07:59",
+      "status": "success",
+      "new_items": 157,
+      "deduped_count": 117,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-11-19 07:59",
+      "status": "success",
+      "new_items": 161,
+      "deduped_count": 108,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-11-18 07:59",
+      "status": "success",
+      "new_items": 154,
+      "deduped_count": 113,
+      "failed_sources": []
+    },
+    {
+      "started_at": "2026-11-17 11:07",
+      "status": "partial",
+      "new_items": 28,
+      "deduped_count": 217,
+      "failed_sources": [
+        "producthunt"
+      ]
+    },
+    {
+      "started_at": "2026-11-17 07:59",
+      "status": "success",
+      "new_items": 167,
+      "deduped_count": 98,
+      "failed_sources": []
+    }
+  ]
+}
