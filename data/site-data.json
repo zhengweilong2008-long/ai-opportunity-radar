@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T00:02:49.267177+00:00",
+  "generated_at": "2026-11-27T00:06:25.399738+00:00",
   "date": "2026-11-27",
   "hot": [
     {
@@ -55,7 +55,7 @@
       "next_action": null
     },
     {
-      "title_cn": null,
+      "title_cn": "IBM给予H-1B签证持有者和绿卡持有者3周时间，要求他们迁离美国或离职",
       "title_orig": "IBM gives H-1B, green card holders 3 weeks to relocate from US or leave company",
       "summary_cn": null,
       "url": "https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr",
@@ -185,6 +185,32 @@
       "next_action": null
     },
     {
+      "title_cn": "丹佛男子用锥筒堵住Waymo自动驾驶出租车，并至少30次向其投掷鸡蛋",
+      "title_orig": "Denver man traps Waymo robotaxis with cones, eggs them at least 30 times",
+      "summary_cn": null,
+      "url": "https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-27 05:16",
+      "score": 68.3,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 25.3,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 31 赞/15 评论；2.8 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
       "title_cn": "llama.cpp 的 AMD 特有分支",
       "title_orig": "AMD-specific fork of llama.cpp",
       "summary_cn": null,
@@ -229,32 +255,6 @@
         "趋势增长": 0.0
       },
       "note": "HN 226 赞/304 评论；6.4 小时前；1 个独立信源",
-      "opp_type": null,
-      "cost_range": null,
-      "monetization": null,
-      "mvp_plan": null,
-      "risks": null,
-      "next_action": null
-    },
-    {
-      "title_cn": "“RansomwareHelp”的首席技术官因电信欺诈被起诉",
-      "title_orig": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
-      "summary_cn": null,
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "source": "hackernews",
-      "source_display": "Hacker News",
-      "category": "科技",
-      "published_at": "2026-11-27 01:47",
-      "score": 68.0,
-      "confidence": "实际热度",
-      "reasons": {
-        "互动数据": 30.0,
-        "时效性": 20.0,
-        "独立信源": 6.0,
-        "信源可靠性": 12.0,
-        "趋势增长": 0.0
-      },
-      "note": "HN 188 赞/85 评论；6.2 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -401,9 +401,9 @@
     }
   ],
   "stats": {
-    "last_ok": "2026-11-27 08:01",
+    "last_ok": "2026-11-27 08:05",
     "success_rate": 1.0,
-    "runs_total": 49,
+    "runs_total": 50,
     "hot_count": 10,
     "opp_count": 5
   },
@@ -413,7 +413,7 @@
       "display_name": "GitHub Star 增速",
       "url": "https://github.com/trending",
       "status": "ok",
-      "last_success_at": "2026-11-27T00:00:05.608521+00:00",
+      "last_success_at": "2026-11-27T00:04:48.816785+00:00",
       "items_collected": 207,
       "last_error": null
     },
@@ -422,7 +422,7 @@
       "display_name": "GitHub Trending",
       "url": "https://github.com/trending",
       "status": "ok",
-      "last_success_at": "2026-11-26T23:59:58.506037+00:00",
+      "last_success_at": "2026-11-27T00:04:41.694175+00:00",
       "items_collected": 148,
       "last_error": null
     },
@@ -431,7 +431,7 @@
       "display_name": "GitHub Trending 分语言",
       "url": "https://github.com/trending",
       "status": "ok",
-      "last_success_at": "2026-11-27T00:00:10.118059+00:00",
+      "last_success_at": "2026-11-27T00:04:52.667428+00:00",
       "items_collected": 354,
       "last_error": null
     },
@@ -440,7 +440,7 @@
       "display_name": "Google DeepMind",
       "url": "https://deepmind.google/",
       "status": "ok",
-      "last_success_at": "2026-11-27T00:01:02.607167+00:00",
+      "last_success_at": "2026-11-27T00:05:41.039289+00:00",
       "items_collected": 35,
       "last_error": null
     },
@@ -449,8 +449,8 @@
       "display_name": "Google Trends",
       "url": "https://trends.google.com/trends/",
       "status": "ok",
-      "last_success_at": "2026-11-27T00:01:04.268344+00:00",
-      "items_collected": 475,
+      "last_success_at": "2026-11-27T00:05:42.683151+00:00",
+      "items_collected": 480,
       "last_error": null
     },
     {
@@ -458,8 +458,8 @@
       "display_name": "Hacker News",
       "url": "https://news.ycombinator.com/",
       "status": "ok",
-      "last_success_at": "2026-11-27T00:00:46.140021+00:00",
-      "items_collected": 1289,
+      "last_success_at": "2026-11-27T00:05:28.525987+00:00",
+      "items_collected": 1290,
       "last_error": null
     },
     {
@@ -467,7 +467,7 @@
       "display_name": "Hugging Face Blog",
       "url": "https://huggingface.co/blog",
       "status": "ok",
-      "last_success_at": "2026-11-27T00:00:51.618035+00:00",
+      "last_success_at": "2026-11-27T00:05:33.847296+00:00",
       "items_collected": 86,
       "last_error": null
     },
@@ -476,7 +476,7 @@
       "display_name": "OpenAI News",
       "url": "https://openai.com/news/",
       "status": "ok",
-      "last_success_at": "2026-11-27T00:00:49.688194+00:00",
+      "last_success_at": "2026-11-27T00:05:31.986228+00:00",
       "items_collected": 156,
       "last_error": null
     },
@@ -485,7 +485,7 @@
       "display_name": "Product Hunt",
       "url": "https://www.producthunt.com/",
       "status": "ok",
-      "last_success_at": "2026-11-27T00:00:47.498023+00:00",
+      "last_success_at": "2026-11-27T00:05:29.904511+00:00",
       "items_collected": 879,
       "last_error": null
     },
@@ -503,7 +503,7 @@
       "display_name": "SEC EDGAR",
       "url": "https://www.sec.gov/edgar/search/",
       "status": "ok",
-      "last_success_at": "2026-11-27T00:01:00.862194+00:00",
+      "last_success_at": "2026-11-27T00:05:39.588699+00:00",
       "items_collected": 1200,
       "last_error": null
     },
@@ -512,12 +512,19 @@
       "display_name": "TechCrunch",
       "url": "https://techcrunch.com/",
       "status": "ok",
-      "last_success_at": "2026-11-27T00:00:53.454091+00:00",
+      "last_success_at": "2026-11-27T00:05:35.423089+00:00",
       "items_collected": 657,
       "last_error": null
     }
   ],
   "runs": [
+    {
+      "started_at": "2026-11-27 08:04",
+      "status": "success",
+      "new_items": 23,
+      "deduped_count": 247,
+      "failed_sources": []
+    },
     {
       "started_at": "2026-11-27 07:59",
       "status": "success",
@@ -579,13 +586,6 @@
       "status": "success",
       "new_items": 161,
       "deduped_count": 108,
-      "failed_sources": []
-    },
-    {
-      "started_at": "2026-11-18 07:59",
-      "status": "success",
-      "new_items": 154,
-      "deduped_count": 113,
       "failed_sources": []
     }
   ]
