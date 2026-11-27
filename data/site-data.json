@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-26T00:04:17.255705+00:00",
-  "date": "2026-11-26",
+  "generated_at": "2026-11-27T00:02:49.267177+00:00",
+  "date": "2026-11-27",
   "hot": [
     {
-      "title_cn": null,
-      "title_orig": "Much shorter version of GRH Lean verification from Anthropic",
+      "title_cn": "人工智能让自助托管再次变得有趣",
+      "title_orig": "AI made self-hosting fun again",
       "summary_cn": null,
-      "url": "https://github.com/lsernau/grh-lean",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
       "source": "hackernews",
       "source_display": "Hacker News",
-      "category": "AI",
-      "published_at": "2026-11-26 05:48",
+      "category": "科技",
+      "published_at": "2026-11-27 05:47",
       "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
@@ -20,7 +20,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 195 赞/88 评论；2.2 小时前；1 个独立信源",
+      "note": "HN 179 赞/104 评论；2.2 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -29,14 +29,14 @@
       "next_action": null
     },
     {
-      "title_cn": null,
-      "title_orig": "The New York Times tells photographers not to use the latest Photoshop",
+      "title_cn": "卡米尔·汗·穆姆塔兹：备受本国推崇的巴基斯坦建筑师，在国外却几乎无人知晓",
+      "title_orig": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
       "summary_cn": null,
-      "url": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-26 05:18",
+      "published_at": "2026-11-27 05:08",
       "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
@@ -46,7 +46,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 132 赞/65 评论；2.7 小时前；1 个独立信源",
+      "note": "HN 195 赞/34 评论；2.9 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -56,13 +56,13 @@
     },
     {
       "title_cn": null,
-      "title_orig": "72-Hour Fasting Can Reset Your Immune System, USC Study Shows",
+      "title_orig": "IBM gives H-1B, green card holders 3 weeks to relocate from US or leave company",
       "summary_cn": null,
-      "url": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
+      "url": "https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-26 04:35",
+      "published_at": "2026-11-27 02:35",
       "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
@@ -72,7 +72,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 101 赞/46 评论；3.4 小时前；1 个独立信源",
+      "note": "HN 114 赞/79 评论；5.4 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -81,14 +81,14 @@
       "next_action": null
     },
     {
-      "title_cn": null,
-      "title_orig": "Slow Ubuntu security response times",
+      "title_cn": "显示HN：Fuck_data_brokers.py",
+      "title_orig": "Show HN: Fuck_data_brokers.py",
       "summary_cn": null,
-      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "url": "https://github.com/gary23w/f-ck_data_brokers",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-26 04:38",
+      "published_at": "2026-11-27 02:37",
       "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
@@ -98,7 +98,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 94 赞/32 评论；3.4 小时前；1 个独立信源",
+      "note": "HN 204 赞/40 评论；5.4 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -107,24 +107,24 @@
       "next_action": null
     },
     {
-      "title_cn": null,
-      "title_orig": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "title_cn": "Rvoip 0.5：用Rust编写的完整VoIP栈",
+      "title_orig": "Rvoip 0.5 the complete VoIP stack in Rust",
       "summary_cn": null,
-      "url": "https://scottaaronson.blog/?p=10379",
+      "url": "https://github.com/eisenzopf/rvoip",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-26 03:11",
-      "score": 73.0,
+      "published_at": "2026-11-27 03:18",
+      "score": 71.7,
       "confidence": "实际热度",
       "reasons": {
-        "互动数据": 30.0,
+        "互动数据": 28.7,
         "时效性": 25.0,
         "独立信源": 6.0,
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 785 赞/636 评论；4.8 小时前；1 个独立信源",
+      "note": "HN 63 赞/14 评论；4.7 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -133,24 +133,24 @@
       "next_action": null
     },
     {
-      "title_cn": null,
-      "title_orig": "Jev is (probably) Qwen3.5-35B-A3B",
+      "title_cn": "公司文化 = Slack 表情符号 ÷ √员工人数",
+      "title_orig": "Company Culture = Slack Emoji ÷ √Headcount",
       "summary_cn": null,
-      "url": "https://modaic.dev/blog/latency-doesnt-lie",
+      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-26 06:57",
-      "score": 72.9,
+      "published_at": "2026-11-27 04:49",
+      "score": 71.2,
       "confidence": "实际热度",
       "reasons": {
-        "互动数据": 29.9,
+        "互动数据": 28.2,
         "时效性": 25.0,
         "独立信源": 6.0,
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 103 赞/8 评论；1.1 小时前；1 个独立信源",
+      "note": "HN 64 赞/11 评论；3.2 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -159,24 +159,24 @@
       "next_action": null
     },
     {
-      "title_cn": null,
-      "title_orig": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+      "title_cn": "乔治·怀特塞兹，1939-2026",
+      "title_orig": "George Whitesides, 1939-2026",
       "summary_cn": null,
-      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+      "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-26 04:35",
-      "score": 72.6,
+      "published_at": "2026-11-27 02:13",
+      "score": 68.6,
       "confidence": "实际热度",
       "reasons": {
-        "互动数据": 29.6,
+        "互动数据": 25.6,
         "时效性": 25.0,
         "独立信源": 6.0,
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 64 赞/19 评论；3.4 小时前；1 个独立信源",
+      "note": "HN 50 赞/6 评论；5.8 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -185,14 +185,14 @@
       "next_action": null
     },
     {
-      "title_cn": null,
-      "title_orig": "1Password Security Incident",
+      "title_cn": "llama.cpp 的 AMD 特有分支",
+      "title_orig": "AMD-specific fork of llama.cpp",
       "summary_cn": null,
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-26 01:18",
+      "published_at": "2026-11-27 01:11",
       "score": 68.0,
       "confidence": "实际热度",
       "reasons": {
@@ -202,7 +202,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 1044 赞/447 评论；6.7 小时前；1 个独立信源",
+      "note": "HN 265 赞/64 评论；6.8 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -211,14 +211,14 @@
       "next_action": null
     },
     {
-      "title_cn": null,
-      "title_orig": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "title_cn": "YouTube Ad Punisher – 在播放广告时自动重新加载 YouTube 页面",
+      "title_orig": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
       "summary_cn": null,
-      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "url": "https://github.com/antonpictures/youtube-punisher",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-25 23:14",
+      "published_at": "2026-11-27 01:36",
       "score": 68.0,
       "confidence": "实际热度",
       "reasons": {
@@ -228,7 +228,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 422 赞/100 评论；8.8 小时前；1 个独立信源",
+      "note": "HN 226 赞/304 评论；6.4 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -237,14 +237,14 @@
       "next_action": null
     },
     {
-      "title_cn": null,
-      "title_orig": "The polynomial Hirsch conjecture is false [pdf]",
+      "title_cn": "“RansomwareHelp”的首席技术官因电信欺诈被起诉",
+      "title_orig": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
       "summary_cn": null,
-      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-26 01:34",
+      "published_at": "2026-11-27 01:47",
       "score": 68.0,
       "confidence": "实际热度",
       "reasons": {
@@ -254,7 +254,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 110 赞/28 评论；6.4 小时前；1 个独立信源",
+      "note": "HN 188 赞/85 评论；6.2 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -292,7 +292,7 @@
       "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
     },
     {
-      "title_cn": null,
+      "title_cn": "使用 LLM 将 Rockbox 移植到一款售价 9 美元的无文档“YP3”MP3 播放器上",
       "title_orig": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
       "summary_cn": null,
       "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
@@ -312,33 +312,6 @@
       },
       "note": "高互动（真实数据）；提及付费/API/订阅模式（待验证）；未明确低成本属性；规则评分，待人工复核",
       "opp_type": "AI",
-      "cost_range": "预估 ¥0–2,000（主要是个人时间成本；域名/服务器等小额支出）",
-      "monetization": "变现路径待验证：建议先阅读原文确认付费模式，再找 3–5 个潜在付费用户访谈。理论上的盈利空间不等于已验证收入。",
-      "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
-      "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
-      "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
-    },
-    {
-      "title_cn": "任天堂从 GitHub 上移除了 Picofly 固件 [视频]",
-      "title_orig": "Nintendo takes Picofly firmware down from GitHub [video]",
-      "summary_cn": null,
-      "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
-      "source": "hackernews",
-      "source_display": "Hacker News",
-      "category": "科技",
-      "published_at": "2026-11-18 22:56",
-      "score": 61.0,
-      "confidence": "实际热度",
-      "reasons": {
-        "真实需求证据": 20.0,
-        "变现路径清晰度": 6.0,
-        "低成本启动适配度": 16.0,
-        "趋势增长潜力": 9.0,
-        "竞争与差异化": 5.0,
-        "个人可执行性": 5.0
-      },
-      "note": "高互动（真实数据）；未提及明确付费模式；开源/个人项目属性，启动成本低；规则评分，待人工复核",
-      "opp_type": "创业",
       "cost_range": "预估 ¥0–2,000（主要是个人时间成本；域名/服务器等小额支出）",
       "monetization": "变现路径待验证：建议先阅读原文确认付费模式，再找 3–5 个潜在付费用户访谈。理论上的盈利空间不等于已验证收入。",
       "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
@@ -398,12 +371,39 @@
       "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
       "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
       "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
+    },
+    {
+      "title_cn": "苹果在9年后将我的开源应用从欧盟App Store中下架",
+      "title_orig": "Apple removed my open-source app from EU App Stores after 9 years",
+      "summary_cn": null,
+      "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-24 02:48",
+      "score": 61.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "真实需求证据": 20.0,
+        "变现路径清晰度": 6.0,
+        "低成本启动适配度": 16.0,
+        "趋势增长潜力": 9.0,
+        "竞争与差异化": 5.0,
+        "个人可执行性": 5.0
+      },
+      "note": "高互动（真实数据）；未提及明确付费模式；开源/个人项目属性，启动成本低；规则评分，待人工复核",
+      "opp_type": "创业",
+      "cost_range": "预估 ¥0–2,000（主要是个人时间成本；域名/服务器等小额支出）",
+      "monetization": "变现路径待验证：建议先阅读原文确认付费模式，再找 3–5 个潜在付费用户访谈。理论上的盈利空间不等于已验证收入。",
+      "mvp_plan": "最小可行验证（2 周内）：1）用现有工具做出可演示原型；2）发到 2–3 个相关社区收集反馈；3）目标拿到 10 条有效用户反馈再决定投入。",
+      "risks": "主要风险：需求真实性未验证；竞争格局未调研；热度不等于付费意愿。",
+      "next_action": "下一步：读原文抓关键信息 → 列出 3 个最可能付费的人群 → 做最小原型验证需求。"
     }
   ],
   "stats": {
-    "last_ok": "2026-11-26 08:00",
+    "last_ok": "2026-11-27 08:01",
     "success_rate": 1.0,
-    "runs_total": 48,
+    "runs_total": 49,
     "hot_count": 10,
     "opp_count": 5
   },
@@ -413,8 +413,8 @@
       "display_name": "GitHub Star 增速",
       "url": "https://github.com/trending",
       "status": "ok",
-      "last_success_at": "2026-11-25T23:59:32.355122+00:00",
-      "items_collected": 205,
+      "last_success_at": "2026-11-27T00:00:05.608521+00:00",
+      "items_collected": 207,
       "last_error": null
     },
     {
@@ -422,7 +422,7 @@
       "display_name": "GitHub Trending",
       "url": "https://github.com/trending",
       "status": "ok",
-      "last_success_at": "2026-11-25T23:59:23.889938+00:00",
+      "last_success_at": "2026-11-26T23:59:58.506037+00:00",
       "items_collected": 148,
       "last_error": null
     },
@@ -431,7 +431,7 @@
       "display_name": "GitHub Trending 分语言",
       "url": "https://github.com/trending",
       "status": "ok",
-      "last_success_at": "2026-11-25T23:59:36.398314+00:00",
+      "last_success_at": "2026-11-27T00:00:10.118059+00:00",
       "items_collected": 354,
       "last_error": null
     },
@@ -440,7 +440,7 @@
       "display_name": "Google DeepMind",
       "url": "https://deepmind.google/",
       "status": "ok",
-      "last_success_at": "2026-11-26T00:00:28.384418+00:00",
+      "last_success_at": "2026-11-27T00:01:02.607167+00:00",
       "items_collected": 35,
       "last_error": null
     },
@@ -449,8 +449,8 @@
       "display_name": "Google Trends",
       "url": "https://trends.google.com/trends/",
       "status": "ok",
-      "last_success_at": "2026-11-26T00:00:31.336377+00:00",
-      "items_collected": 465,
+      "last_success_at": "2026-11-27T00:01:04.268344+00:00",
+      "items_collected": 475,
       "last_error": null
     },
     {
@@ -458,8 +458,8 @@
       "display_name": "Hacker News",
       "url": "https://news.ycombinator.com/",
       "status": "ok",
-      "last_success_at": "2026-11-26T00:00:12.598820+00:00",
-      "items_collected": 1262,
+      "last_success_at": "2026-11-27T00:00:46.140021+00:00",
+      "items_collected": 1289,
       "last_error": null
     },
     {
@@ -467,8 +467,8 @@
       "display_name": "Hugging Face Blog",
       "url": "https://huggingface.co/blog",
       "status": "ok",
-      "last_success_at": "2026-11-26T00:00:18.209325+00:00",
-      "items_collected": 83,
+      "last_success_at": "2026-11-27T00:00:51.618035+00:00",
+      "items_collected": 86,
       "last_error": null
     },
     {
@@ -476,7 +476,7 @@
       "display_name": "OpenAI News",
       "url": "https://openai.com/news/",
       "status": "ok",
-      "last_success_at": "2026-11-26T00:00:16.324821+00:00",
+      "last_success_at": "2026-11-27T00:00:49.688194+00:00",
       "items_collected": 156,
       "last_error": null
     },
@@ -485,8 +485,8 @@
       "display_name": "Product Hunt",
       "url": "https://www.producthunt.com/",
       "status": "ok",
-      "last_success_at": "2026-11-26T00:00:14.438161+00:00",
-      "items_collected": 859,
+      "last_success_at": "2026-11-27T00:00:47.498023+00:00",
+      "items_collected": 879,
       "last_error": null
     },
     {
@@ -503,7 +503,7 @@
       "display_name": "SEC EDGAR",
       "url": "https://www.sec.gov/edgar/search/",
       "status": "ok",
-      "last_success_at": "2026-11-26T00:00:26.295880+00:00",
+      "last_success_at": "2026-11-27T00:01:00.862194+00:00",
       "items_collected": 1200,
       "last_error": null
     },
@@ -512,12 +512,19 @@
       "display_name": "TechCrunch",
       "url": "https://techcrunch.com/",
       "status": "ok",
-      "last_success_at": "2026-11-26T00:00:20.036018+00:00",
-      "items_collected": 652,
+      "last_success_at": "2026-11-27T00:00:53.454091+00:00",
+      "items_collected": 657,
       "last_error": null
     }
   ],
   "runs": [
+    {
+      "started_at": "2026-11-27 07:59",
+      "status": "success",
+      "new_items": 87,
+      "deduped_count": 183,
+      "failed_sources": []
+    },
     {
       "started_at": "2026-11-26 07:59",
       "status": "success",
@@ -580,15 +587,6 @@
       "new_items": 154,
       "deduped_count": 113,
       "failed_sources": []
-    },
-    {
-      "started_at": "2026-11-17 11:07",
-      "status": "partial",
-      "new_items": 28,
-      "deduped_count": 217,
-      "failed_sources": [
-        "producthunt"
-      ]
     }
   ]
 }
