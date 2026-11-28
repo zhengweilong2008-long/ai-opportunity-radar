@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-27T00:06:25.399738+00:00",
-  "date": "2026-11-27",
+  "generated_at": "2026-11-28T00:03:37.303264+00:00",
+  "date": "2026-11-28",
   "hot": [
     {
-      "title_cn": "人工智能让自助托管再次变得有趣",
-      "title_orig": "AI made self-hosting fun again",
+      "title_cn": null,
+      "title_orig": "Convex skills send the user's app idea to a remote server without telling them",
       "summary_cn": null,
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-27 05:47",
+      "published_at": "2026-11-28 02:02",
       "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
@@ -20,7 +20,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 179 赞/104 评论；2.2 小时前；1 个独立信源",
+      "note": "HN 208 赞/59 评论；6.0 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -29,14 +29,14 @@
       "next_action": null
     },
     {
-      "title_cn": "卡米尔·汗·穆姆塔兹：备受本国推崇的巴基斯坦建筑师，在国外却几乎无人知晓",
-      "title_orig": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "title_cn": null,
+      "title_orig": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
       "summary_cn": null,
-      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-27 05:08",
+      "published_at": "2026-11-28 03:42",
       "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
@@ -46,7 +46,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 195 赞/34 评论；2.9 小时前；1 个独立信源",
+      "note": "HN 219 赞/117 评论；4.3 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -55,14 +55,14 @@
       "next_action": null
     },
     {
-      "title_cn": "IBM给予H-1B签证持有者和绿卡持有者3周时间，要求他们迁离美国或离职",
-      "title_orig": "IBM gives H-1B, green card holders 3 weeks to relocate from US or leave company",
+      "title_cn": null,
+      "title_orig": "Michael Nielsen took down his book on neural nets",
       "summary_cn": null,
-      "url": "https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr",
+      "url": "https://neuralnetworksanddeeplearning.com/",
       "source": "hackernews",
       "source_display": "Hacker News",
-      "category": "科技",
-      "published_at": "2026-11-27 02:35",
+      "category": "AI",
+      "published_at": "2026-11-28 03:31",
       "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
@@ -72,7 +72,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 114 赞/79 评论；5.4 小时前；1 个独立信源",
+      "note": "HN 341 赞/220 评论；4.5 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -81,14 +81,14 @@
       "next_action": null
     },
     {
-      "title_cn": "显示HN：Fuck_data_brokers.py",
-      "title_orig": "Show HN: Fuck_data_brokers.py",
+      "title_cn": null,
+      "title_orig": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order",
       "summary_cn": null,
-      "url": "https://github.com/gary23w/f-ck_data_brokers",
+      "url": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-27 02:37",
+      "published_at": "2026-11-28 04:25",
       "score": 73.0,
       "confidence": "实际热度",
       "reasons": {
@@ -98,7 +98,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 204 赞/40 评论；5.4 小时前；1 个独立信源",
+      "note": "HN 122 赞/47 评论；3.6 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -107,24 +107,24 @@
       "next_action": null
     },
     {
-      "title_cn": "Rvoip 0.5：用Rust编写的完整VoIP栈",
-      "title_orig": "Rvoip 0.5 the complete VoIP stack in Rust",
+      "title_cn": null,
+      "title_orig": "Scrapheap America",
       "summary_cn": null,
-      "url": "https://github.com/eisenzopf/rvoip",
+      "url": "https://dansinker.com/posts/2026-11-20-scrapheap/",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-27 03:18",
-      "score": 71.7,
+      "published_at": "2026-11-28 02:50",
+      "score": 69.8,
       "confidence": "实际热度",
       "reasons": {
-        "互动数据": 28.7,
+        "互动数据": 26.8,
         "时效性": 25.0,
         "独立信源": 6.0,
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 63 赞/14 评论；4.7 小时前；1 个独立信源",
+      "note": "HN 43 赞/14 评论；5.2 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -133,24 +133,24 @@
       "next_action": null
     },
     {
-      "title_cn": "公司文化 = Slack 表情符号 ÷ √员工人数",
-      "title_orig": "Company Culture = Slack Emoji ÷ √Headcount",
+      "title_cn": null,
+      "title_orig": "The AT&T Unix PC (3B1) VM",
       "summary_cn": null,
-      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-27 04:49",
-      "score": 71.2,
+      "published_at": "2026-11-28 03:40",
+      "score": 69.5,
       "confidence": "实际热度",
       "reasons": {
-        "互动数据": 28.2,
+        "互动数据": 26.5,
         "时效性": 25.0,
         "独立信源": 6.0,
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 64 赞/11 评论；3.2 小时前；1 个独立信源",
+      "note": "HN 50 赞/9 评论；4.3 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -159,24 +159,50 @@
       "next_action": null
     },
     {
-      "title_cn": "乔治·怀特塞兹，1939-2026",
-      "title_orig": "George Whitesides, 1939-2026",
+      "title_cn": null,
+      "title_orig": "Source Control from Hell",
       "summary_cn": null,
-      "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
+      "url": "https://frantic.im/git/",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-27 02:13",
-      "score": 68.6,
+      "published_at": "2026-11-28 06:06",
+      "score": 69.3,
       "confidence": "实际热度",
       "reasons": {
-        "互动数据": 25.6,
+        "互动数据": 26.3,
         "时效性": 25.0,
         "独立信源": 6.0,
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 50 赞/6 评论；5.8 小时前；1 个独立信源",
+      "note": "HN 35 赞/18 评论；1.9 小时前；1 个独立信源",
+      "opp_type": null,
+      "cost_range": null,
+      "monetization": null,
+      "mvp_plan": null,
+      "risks": null,
+      "next_action": null
+    },
+    {
+      "title_cn": null,
+      "title_orig": "9/UX: a Macintosh-inspired desktop for 9front",
+      "summary_cn": null,
+      "url": "https://progrium.github.io/9ux/",
+      "source": "hackernews",
+      "source_display": "Hacker News",
+      "category": "科技",
+      "published_at": "2026-11-28 05:48",
+      "score": 69.0,
+      "confidence": "实际热度",
+      "reasons": {
+        "互动数据": 26.0,
+        "时效性": 25.0,
+        "独立信源": 6.0,
+        "信源可靠性": 12.0,
+        "趋势增长": 0.0
+      },
+      "note": "HN 45 赞/9 评论；2.2 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -211,14 +237,14 @@
       "next_action": null
     },
     {
-      "title_cn": "llama.cpp 的 AMD 特有分支",
-      "title_orig": "AMD-specific fork of llama.cpp",
+      "title_cn": null,
+      "title_orig": "Credit card skimming scripts using WebRTC found on popular shopping sites",
       "summary_cn": null,
-      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
       "source": "hackernews",
       "source_display": "Hacker News",
       "category": "科技",
-      "published_at": "2026-11-27 01:11",
+      "published_at": "2026-11-27 23:40",
       "score": 68.0,
       "confidence": "实际热度",
       "reasons": {
@@ -228,33 +254,7 @@
         "信源可靠性": 12.0,
         "趋势增长": 0.0
       },
-      "note": "HN 265 赞/64 评论；6.8 小时前；1 个独立信源",
-      "opp_type": null,
-      "cost_range": null,
-      "monetization": null,
-      "mvp_plan": null,
-      "risks": null,
-      "next_action": null
-    },
-    {
-      "title_cn": "YouTube Ad Punisher – 在播放广告时自动重新加载 YouTube 页面",
-      "title_orig": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-      "summary_cn": null,
-      "url": "https://github.com/antonpictures/youtube-punisher",
-      "source": "hackernews",
-      "source_display": "Hacker News",
-      "category": "科技",
-      "published_at": "2026-11-27 01:36",
-      "score": 68.0,
-      "confidence": "实际热度",
-      "reasons": {
-        "互动数据": 30.0,
-        "时效性": 20.0,
-        "独立信源": 6.0,
-        "信源可靠性": 12.0,
-        "趋势增长": 0.0
-      },
-      "note": "HN 226 赞/304 评论；6.4 小时前；1 个独立信源",
+      "note": "HN 394 赞/200 评论；8.3 小时前；1 个独立信源",
       "opp_type": null,
       "cost_range": null,
       "monetization": null,
@@ -401,9 +401,9 @@
     }
   ],
   "stats": {
-    "last_ok": "2026-11-27 08:05",
+    "last_ok": "2026-11-28 08:00",
     "success_rate": 1.0,
-    "runs_total": 50,
+    "runs_total": 51,
     "hot_count": 10,
     "opp_count": 5
   },
@@ -413,8 +413,8 @@
       "display_name": "GitHub Star 增速",
       "url": "https://github.com/trending",
       "status": "ok",
-      "last_success_at": "2026-11-27T00:04:48.816785+00:00",
-      "items_collected": 207,
+      "last_success_at": "2026-11-27T23:59:35.507026+00:00",
+      "items_collected": 209,
       "last_error": null
     },
     {
@@ -422,7 +422,7 @@
       "display_name": "GitHub Trending",
       "url": "https://github.com/trending",
       "status": "ok",
-      "last_success_at": "2026-11-27T00:04:41.694175+00:00",
+      "last_success_at": "2026-11-27T23:59:28.812744+00:00",
       "items_collected": 148,
       "last_error": null
     },
@@ -431,7 +431,7 @@
       "display_name": "GitHub Trending 分语言",
       "url": "https://github.com/trending",
       "status": "ok",
-      "last_success_at": "2026-11-27T00:04:52.667428+00:00",
+      "last_success_at": "2026-11-27T23:59:39.555110+00:00",
       "items_collected": 354,
       "last_error": null
     },
@@ -440,7 +440,7 @@
       "display_name": "Google DeepMind",
       "url": "https://deepmind.google/",
       "status": "ok",
-      "last_success_at": "2026-11-27T00:05:41.039289+00:00",
+      "last_success_at": "2026-11-28T00:00:32.406621+00:00",
       "items_collected": 35,
       "last_error": null
     },
@@ -449,8 +449,8 @@
       "display_name": "Google Trends",
       "url": "https://trends.google.com/trends/",
       "status": "ok",
-      "last_success_at": "2026-11-27T00:05:42.683151+00:00",
-      "items_collected": 480,
+      "last_success_at": "2026-11-28T00:00:33.813455+00:00",
+      "items_collected": 490,
       "last_error": null
     },
     {
@@ -458,8 +458,8 @@
       "display_name": "Hacker News",
       "url": "https://news.ycombinator.com/",
       "status": "ok",
-      "last_success_at": "2026-11-27T00:05:28.525987+00:00",
-      "items_collected": 1290,
+      "last_success_at": "2026-11-28T00:00:17.022613+00:00",
+      "items_collected": 1320,
       "last_error": null
     },
     {
@@ -467,8 +467,8 @@
       "display_name": "Hugging Face Blog",
       "url": "https://huggingface.co/blog",
       "status": "ok",
-      "last_success_at": "2026-11-27T00:05:33.847296+00:00",
-      "items_collected": 86,
+      "last_success_at": "2026-11-28T00:00:24.626116+00:00",
+      "items_collected": 87,
       "last_error": null
     },
     {
@@ -476,7 +476,7 @@
       "display_name": "OpenAI News",
       "url": "https://openai.com/news/",
       "status": "ok",
-      "last_success_at": "2026-11-27T00:05:31.986228+00:00",
+      "last_success_at": "2026-11-28T00:00:21.117276+00:00",
       "items_collected": 156,
       "last_error": null
     },
@@ -485,8 +485,8 @@
       "display_name": "Product Hunt",
       "url": "https://www.producthunt.com/",
       "status": "ok",
-      "last_success_at": "2026-11-27T00:05:29.904511+00:00",
-      "items_collected": 879,
+      "last_success_at": "2026-11-28T00:00:18.955880+00:00",
+      "items_collected": 899,
       "last_error": null
     },
     {
@@ -503,8 +503,8 @@
       "display_name": "SEC EDGAR",
       "url": "https://www.sec.gov/edgar/search/",
       "status": "ok",
-      "last_success_at": "2026-11-27T00:05:39.588699+00:00",
-      "items_collected": 1200,
+      "last_success_at": "2026-11-28T00:00:30.706801+00:00",
+      "items_collected": 1240,
       "last_error": null
     },
     {
@@ -512,12 +512,19 @@
       "display_name": "TechCrunch",
       "url": "https://techcrunch.com/",
       "status": "ok",
-      "last_success_at": "2026-11-27T00:05:35.423089+00:00",
+      "last_success_at": "2026-11-28T00:00:26.356497+00:00",
       "items_collected": 657,
       "last_error": null
     }
   ],
   "runs": [
+    {
+      "started_at": "2026-11-28 07:59",
+      "status": "success",
+      "new_items": 123,
+      "deduped_count": 148,
+      "failed_sources": []
+    },
     {
       "started_at": "2026-11-27 08:04",
       "status": "success",
@@ -579,13 +586,6 @@
       "status": "success",
       "new_items": 157,
       "deduped_count": 117,
-      "failed_sources": []
-    },
-    {
-      "started_at": "2026-11-19 07:59",
-      "status": "success",
-      "new_items": 161,
-      "deduped_count": 108,
       "failed_sources": []
     }
   ]
